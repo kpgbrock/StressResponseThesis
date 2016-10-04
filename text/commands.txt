@@ -1,0 +1,8 @@
+idx = ~isnan(actualhp);
+p = permhp(idx,:)';
+meanp = mean(p)';
+stdp = std(p)';
+a = actualhp(idx);
+
+relfluct = (a-meanp)./stdp;
+

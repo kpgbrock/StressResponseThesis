@@ -1,0 +1,3 @@
+[phRSPerOnOff] = phRandSamplePercentOnOff(10000);
+save phRSPerOnOff phRSPerOnOff;
+

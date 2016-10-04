@@ -1,0 +1,60 @@
+infile = '~/MMPS/MotorNeuronsBS.fasta';
+results = runVarianceOnFile(infile);
+MotorNeuronsBS = results;
+save MotorNeuronsBS MotorNeuronsBS;
+clear all;
+
+infile = '~/MMPS/CorticothalamicNeurons.fasta';
+results = runVarianceOnFile(infile);
+CorticothalamicNeurons = results;
+save CorticothalamicNeurons CorticothalamicNeurons;
+clear all;
+
+infile = '~/MMPS/CorticoSpinalNeurons.fasta';
+results = runVarianceOnFile(infile);
+CorticoSpinalNeurons = results;
+save CorticoSpinalNeurons CorticoSpinalNeurons;
+clear all;
+
+infile = '~/MMPS/CorticostriatalNeurons.fasta';
+results = runVarianceOnFile(infile);
+CorticostriatalNeurons = results;
+save CorticostriatalNeurons CorticostriatalNeurons;
+clear all;
+
+infile = '~/MMPS/CorticalPNOCNeurons.fasta';
+results = runVarianceOnFile(infile);
+CorticalPNOCNeurons = results;
+save CorticalPNOCNeurons CorticalPNOCNeurons;
+clear all;
+
+infile = '~/MMPS/CorticalCortistatinNeurons.fasta';
+results = runVarianceOnFile(infile);
+CorticalCortistatinNeurons = results;
+save CorticalCortistatinNeurons CorticalCortistatinNeurons;
+clear all;
+
+infile = '~/MMPS/CorticalAstrocytes.fasta';
+results = runVarianceOnFile(infile);
+CorticalAstrocytes = results;
+save CorticalAstrocytes CorticalAstrocytes;
+clear all;
+
+infile = '~/MMPS/CorticalOligosOlig2.fasta';
+results = runVarianceOnFile(infile);
+CorticalOligosOlig2 = results;
+save CorticalOligosOlig2 CorticalOligosOlig2;
+clear all;
+
+infile = '~/MMPS/CorticalOligosCmtm5.fasta';
+results = runVarianceOnFile(infile);
+CorticalOligosCmtm5 = results;
+save CorticalOligosCmtm5 CorticalOligosCmtm5;
+clear all;
+
+infile = '~/MMPS/CorticalCCKNeurons.fasta';
+results = runVarianceOnFile(infile);
+CorticalCCKNeurons = results;
+save CorticalCCKNeurons CorticalCCKNeurons;
+clear all;
+

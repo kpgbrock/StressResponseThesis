@@ -1,0 +1,3 @@
+[vhlInitCalcGS1] = redoInitialVHLCalc(1);
+save vhlInitCalcGS1 vhlInitCalcGS1;
+

@@ -1,0 +1,100 @@
+0006360	transcription from RNA polymerase I promoter	
+0051169	nuclear transport	
+0006364	rRNA processing	
+0006366	transcription from RNA polymerase II promoter	
+0008150	biological_process	
+0051603	proteolysis involved in cellular protein catabolic process	
+0051604	protein maturation	
+0061025	membrane fusion	
+0007005	mitochondrion organization	
+0009451	RNA modification	
+0001403	invasive growth in response to glucose limitation	
+0005975	carbohydrate metabolic process	
+0051049	regulation of transport	
+0031399	regulation of protein modification process	
+0071554	cell wall organization or biogenesis	
+0008380	RNA splicing	
+0006457	protein folding	
+0006605	protein targeting	
+0048285	organelle fission	
+0048284	organelle fusion	
+0006766	vitamin metabolic process	
+0006281	DNA repair	
+0051052	regulation of DNA metabolic process	
+0009408	response to heat	
+0051186	cofactor metabolic process	
+0033043	regulation of organelle organization	
+0042221	response to chemical	
+0043144	snoRNA processing	
+0045333	cellular respiration	
+0048193	Golgi vesicle transport	
+0002181	cytoplasmic translation	
+0016050	vesicle organization	
+0006354	DNA-templated transcription, elongation	
+0006353	DNA-templated transcription, termination	
+0006352	DNA-templated transcription, initiation	
+0016197	endosomal transport	
+0043543	protein acylation	
+0000746	conjugation	
+0042255	ribosome assembly	
+0006887	exocytosis	
+0000902	cell morphogenesis	
+0000054	ribosomal subunit export from nucleus	
+0070647	protein modification by small protein conjugation or removal	
+0015931	nucleobase-containing compound transport	
+0006629	lipid metabolic process	
+0007059	chromosome segregation	
+0070925	organelle assembly	
+0000910	cytokinesis	
+0006325	chromatin organization	
+0006974	cellular response to DNA damage stimulus	
+0006970	response to osmotic stress	
+0006979	response to oxidative stress	
+0051726	regulation of cell cycle	
+0006520	cellular amino acid metabolic process	
+0055085	transmembrane transport	
+0055086	nucleobase-containing small molecule metabolic process	
+0007124	pseudohyphal growth	
+0032196	transposition	
+0009311	oligosaccharide metabolic process	
+0006486	protein glycosylation	
+0006401	RNA catabolic process	
+0006310	DNA recombination	
+0042273	ribosomal large subunit biogenesis	
+0042274	ribosomal small subunit biogenesis	
+0006497	protein lipidation	
+0008033	tRNA processing	
+0007114	cell budding	
+0006811	ion transport	
+0000278	mitotic cell cycle	
+0051321	meiotic cell cycle	
+0043934	sporulation	
+0007033	vacuole organization	
+0007031	peroxisome organization	
+0006897	endocytosis	
+0070271	protein complex biogenesis	
+0032200	telomere organization	
+0023052	signaling	
+0006418	tRNA aminoacylation for protein translation	
+0006417	regulation of translation	
+0006414	translational elongation	
+0016570	histone modification	
+0006413	translational initiation	
+0006997	nucleus organization	
+0042594	response to starvation	
+0006869	lipid transport	
+0010324	membrane invagination	
+0006865	amino acid transport	
+0006091	generation of precursor metabolites and energy	
+0018193	peptidyl-amino acid modification	
+0006468	protein phosphorylation	
+0006397	mRNA processing	
+0008643	carbohydrate transport	
+0048308	organelle inheritance	
+0008213	protein alkylation	
+0006383	transcription from RNA polymerase III promoter	
+0032543	mitochondrial translation	
+0007010	cytoskeleton organization	
+0006873	cellular ion homeostasis	
+0006260	DNA replication	
+0006470	protein dephosphorylation	

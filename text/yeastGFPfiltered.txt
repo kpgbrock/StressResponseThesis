@@ -1,0 +1,1615 @@
+206	YAL001C	TFC3	tagged	visualized	TAP visualized	125	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1073	YAL005C	SSA1	tagged	visualized	TAP visualized	269000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2346	YAL012W	CYS3	tagged	visualized	TAP visualized	38300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1098	YAL016W	TPD3	tagged	visualized	TAP visualized	16900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+137	YAL017W	PSK1	tagged	visualized	TAP visualized	967	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+593	YAL021C	CCR4	tagged	visualized	TAP visualized	2780	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+106	YAL024C	LTE1	tagged	visualized	TAP visualized	304	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+94	YAL029C	MYO4	tagged	visualized	TAP visualized	2210	NA	ambiguous,bud neck,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+749	YAL031C	FUN21	tagged	visualized	TAP visualized	227	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4082	YAL033W	POP5	tagged	visualized	TAP visualized	2230	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+371	YAL035W	FUN12	tagged	visualized	TAP visualized	13400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2515	YAL036C	FUN11	tagged	visualized	TAP visualized	11700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1693	YAL038W	CDC19	tagged	visualized	TAP visualized	291000	24100.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+562	YAL041W	CDC24	tagged	visualized	TAP visualized	1010	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3488	YAL049C		tagged	visualized	TAP visualized	1800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+853	YAL054C	ACS1	tagged	visualized	TAP visualized	2890	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2422	YAL060W	BDH1	tagged	visualized	TAP visualized	8730	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2203	YAL061W		tagged	visualized	TAP visualized	3090	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+889	YAR014C	BUD14	tagged	visualized	TAP visualized	538	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3012	YAR015W	ADE1	tagged	visualized	TAP visualized	4280	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4945	YBL001C	ECM15	tagged	visualized	TAP visualized	1900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+389	YBL005W	PDR3	tagged	visualized	TAP visualized	166	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+174	YBL007C	SLA1	tagged	visualized	TAP visualized	952	NA	cytoplasm,actin	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	T	F	F	F	F	F		
+586	YBL008W	HIR1	tagged	visualized	TAP visualized	846	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+496	YBL014C	RRN6	tagged	visualized	TAP visualized	237	36.3	cytoplasm,nucleolus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F		
+2636	YBL016W	FUS3	tagged	visualized	TAP visualized	8480	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1585	YBL019W	APN2	tagged	visualized	TAP visualized	414	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4338	YBL021C	HAP3	tagged	visualized	TAP visualized	2510	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+539	YBL023C	MCM2	tagged	visualized	TAP visualized	1690	261.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4407	YBL026W	LSM2	tagged	visualized	TAP visualized	2210	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2918	YBL027W	RPL19B	tagged	visualized	TAP visualized	225000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2429	YBL032W	HEK2	tagged	visualized	TAP visualized	15600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2696	YBL033C	RIB1	tagged	visualized	TAP visualized	9520	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3396	YBL036C		tagged	visualized	TAP visualized	4890	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1313	YBL039C	URA7	tagged	visualized	TAP visualized	57600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+991	YBL051C	PIN4	tagged	visualized	TAP visualized	4630	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1555	YBL054W		tagged	visualized	TAP visualized	830	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2200	YBL055C		tagged	visualized	TAP visualized	1460	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1870	YBL056W	PTC3	tagged	visualized	TAP visualized	19700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2172	YBL058W	SHP1	tagged	visualized	TAP visualized	3200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4408	YBL059C-A		tagged	visualized	TAP visualized	279	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5462	YBL061C	SKT5	tagged	visualized	TAP visualized	2580	NA	bud neck,cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	T	F		
+2622	YBL068W	PRS4	tagged	visualized	TAP visualized	5280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5119	YBL071W-A	KTI11	tagged	visualized	TAP visualized	8400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3864	YBL072C	RPS8A	tagged	visualized	TAP visualized	15900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2623	YBL074C	AAR2	tagged	visualized	TAP visualized	7330	500.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1048	YBL075C	SSA3	tagged	visualized	TAP visualized	6440	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+308	YBL076C	ILS1	tagged	visualized	TAP visualized	23300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+753	YBL084C	CDC27	tagged	visualized	TAP visualized	593	88.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+386	YBL085W	BOI1	tagged	visualized	TAP visualized	1040	NA	bud neck,cytoplasm,cell periphery,bud	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+2186	YBL091C	MAP2	tagged	visualized	TAP visualized	1080	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+259	YBL101C	ECM21	tagged	visualized	TAP visualized	799	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1770	YBL103C	RTG3	tagged	visualized	TAP visualized	1050	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+450	YBL104C		tagged	visualized	TAP visualized	184	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3907	YBL107C		tagged	visualized	TAP visualized	768	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+705	YBR001C	NTH2	tagged	visualized	TAP visualized	2500	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3173	YBR011C	IPP1	tagged	visualized	TAP visualized	68400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+460	YBR017C	KAP104	tagged	visualized	TAP visualized	2130	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2347	YBR025C		tagged	visualized	TAP visualized	36800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1556	YBR028C		tagged	visualized	TAP visualized	1470	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2669	YBR034C	HMT1	tagged	visualized	TAP visualized	37600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2849	YBR048W	RPS11B	tagged	visualized	TAP visualized	1200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+485	YBR055C	PRP6	tagged	visualized	TAP visualized	2250	295.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1687	YBR056W		tagged	visualized	TAP visualized	1960	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2543	YBR057C	MUM2	tagged	visualized	TAP visualized	3400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+661	YBR058C	UBP14	tagged	visualized	TAP visualized	3040	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+268	YBR059C	AKL1	tagged	visualized	TAP visualized	3000	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+1156	YBR060C	ORC2	tagged	visualized	TAP visualized	1700	82.5	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2974	YBR061C	TRM7	tagged	visualized	TAP visualized	4110	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3692	YBR066C	NRG2	tagged	visualized	TAP visualized	704	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3764	YBR071W		tagged	visualized	TAP visualized	1200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+405	YBR079C	RPG1	tagged	visualized	TAP visualized	52700	4350.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4031	YBR082C	UBC4	tagged	visualized	TAP visualized	13500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1771	YBR083W	TEC1	tagged	visualized	TAP visualized	530	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2607	YBR084C-A	RPL19A	tagged	visualized	TAP visualized	97700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+767	YBR094W		tagged	visualized	TAP visualized	1770	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3149	YBR101C	FES1	tagged	visualized	TAP visualized	13100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5872	YBR105C	VID24	tagged	visualized	TAP visualized	6650	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3614	YBR111C	YSA1	tagged	visualized	TAP visualized	7330	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+685	YBR114W	RAD16	tagged	visualized	TAP visualized	358	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+124	YBR115C	LYS2	tagged	visualized	TAP visualized	7430	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+955	YBR117C	TKL2	tagged	visualized	TAP visualized	149	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1940	YBR118W	TEF2	tagged	visualized	TAP visualized	450	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+996	YBR121C	GRS1	tagged	visualized	TAP visualized	98400	12100.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2359	YBR125C	PTC4	tagged	visualized	TAP visualized	149	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1718	YBR126C	TPS1	tagged	visualized	TAP visualized	10900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2829	YBR129C	OPY1	tagged	visualized	TAP visualized	1560	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2164	YBR130C	SHE3	tagged	visualized	TAP visualized	1010	NA	ambiguous,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	T		
+611	YBR133C	HSL7	tagged	visualized	TAP visualized	1180	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+4272	YBR135W	CKS1	tagged	visualized	TAP visualized	8780	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4034	YBR137W		tagged	visualized	TAP visualized	1200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1563	YBR138C	HDR1	tagged	visualized	TAP visualized	195	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2070	YBR143C	SUP45	tagged	visualized	TAP visualized	13100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2649	YBR145W	ADH5	tagged	visualized	TAP visualized	1310	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2705	YBR149W	ARA1	tagged	visualized	TAP visualized	30200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+281	YBR150C	TBS1	tagged	visualized	TAP visualized	573	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2928	YBR151W	APD1	tagged	visualized	TAP visualized	2000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2403	YBR155W	CNS1	tagged	visualized	TAP visualized	672	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1459	YBR158W	AMN1	tagged	visualized	TAP visualized	2020	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3071	YBR160W	CDC28	tagged	visualized	TAP visualized	6670	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1985	YBR166C	TYR1	tagged	visualized	TAP visualized	2180	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+912	YBR169C	SSE2	tagged	visualized	TAP visualized	6300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1310	YBR170C	NPL4	tagged	visualized	TAP visualized	1050	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+686	YBR172C	SMY2	tagged	visualized	TAP visualized	486	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4290	YBR173C	UMP1	tagged	visualized	TAP visualized	2740	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2635	YBR181C	RPS6B	tagged	visualized	TAP visualized	38800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2807	YBR189W	RPS9B	tagged	visualized	TAP visualized	63300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2181	YBR195C	MSI1	tagged	visualized	TAP visualized	149	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1429	YBR196C	PGI1	tagged	visualized	TAP visualized	91600	34200.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3712	YBR197C		tagged	visualized	TAP visualized	1360	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+576	YBR202W	CDC47	tagged	visualized	TAP visualized	166	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+41	YBR208C	DUR1,2	tagged	visualized	TAP visualized	952	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+979	YBR212W	NGR1	tagged	visualized	TAP visualized	1540	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1540	YBR214W	SDS24	tagged	visualized	TAP visualized	2840	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+975	YBR216C	YBP1	tagged	visualized	TAP visualized	3060	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+212	YBR218C	PYC2	tagged	visualized	TAP visualized	17000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5646	YBR222C	PCS60	tagged	visualized	TAP visualized	8770	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1480	YBR223C	TDP1	tagged	visualized	TAP visualized	2130	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2233	YBR233W	PBP2	tagged	visualized	TAP visualized	1590	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+816	YBR238C		tagged	visualized	TAP visualized	2080	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1529	YBR239C		tagged	visualized	TAP visualized	85.5	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3555	YBR242W		tagged	visualized	TAP visualized	2730	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4170	YBR244W	GPX2	tagged	visualized	TAP visualized	2010	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1791	YBR247C	ENP1	tagged	visualized	TAP visualized	21600	2960.0	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+1444	YBR248C	HIS7	tagged	visualized	TAP visualized	11800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2505	YBR249C	ARO4	tagged	visualized	TAP visualized	26300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4304	YBR252W	DUT1	tagged	visualized	TAP visualized	4340	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+998	YBR260C	RGD1	tagged	visualized	TAP visualized	1500	NA	ambiguous,bud neck,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+3607	YBR261C		tagged	visualized	TAP visualized	3060	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6091	YBR264C	YPT10	tagged	visualized	TAP visualized	1360	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2360	YBR267W		tagged	visualized	TAP visualized	830	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2199	YBR271W		tagged	visualized	TAP visualized	217	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1813	YBR272C	HSM3	tagged	visualized	TAP visualized	468	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1541	YBR274W	CHK1	tagged	visualized	TAP visualized	2530	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3851	YBR278W	DPB3	tagged	visualized	TAP visualized	784	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+528	YBR281C		tagged	visualized	TAP visualized	1940	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2274	YCL028W	RNQ1	tagged	visualized	TAP visualized	1140	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+667	YCL030C	HIS4	tagged	visualized	TAP visualized	521	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2688	YCL032W	STE50	tagged	visualized	TAP visualized	1670	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4826	YCL035C	GRX1	tagged	visualized	TAP visualized	3030	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1889	YCL037C	SRO9	tagged	visualized	TAP visualized	8430	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+791	YCL039W	GID7	tagged	visualized	TAP visualized	1200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1694	YCL040W	GLK1	tagged	visualized	TAP visualized	21100	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2886	YCL050C	APA1	tagged	visualized	TAP visualized	19600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2784	YCL055W	KAR4	tagged	visualized	TAP visualized	1690	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+857	YCL057W	PRD1	tagged	visualized	TAP visualized	8910	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2929	YCL059C	KRR1	tagged	visualized	TAP visualized	4340	NA	cytoplasm,nucleolus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F		
+3478	YCR004C	YCP4	tagged	visualized	TAP visualized	14600	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1926	YCR005C	CIT2	tagged	visualized	TAP visualized	2310	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3344	YCR009C	RVS161	tagged	visualized	TAP visualized	7390	NA	cytoplasm,actin	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	T	F	F	F	F	F		
+2213	YCR012W	PGK1	tagged	visualized	TAP visualized	314000	132000.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3681	YCR018C	SRD1	tagged	visualized	TAP visualized	2100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+6111	YCR027C	RHB1	tagged	visualized	TAP visualized	1600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2800	YCR036W	RBK1	tagged	visualized	TAP visualized	1780	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3263	YCR047C	BUD23	tagged	visualized	TAP visualized	1620	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3674	YCR051W		tagged	visualized	TAP visualized	784	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1612	YCR053W	THR4	tagged	visualized	TAP visualized	26000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1390	YCR054C	CTR86	tagged	visualized	TAP visualized	8970	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3389	YCR059C	YIH1	tagged	visualized	TAP visualized	3030	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4803	YCR060W		tagged	visualized	TAP visualized	1660	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1385	YCR065W	HCM1	tagged	visualized	TAP visualized	358	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2936	YCR073W-A	SOL2	tagged	visualized	TAP visualized	1160	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+673	YCR077C	PAT1	tagged	visualized	TAP visualized	656	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+113	YCR081W	SRB8	tagged	visualized	TAP visualized	1730	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4522	YCR082W		tagged	visualized	TAP visualized	981	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4010	YCR090C		tagged	visualized	TAP visualized	3970	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+329	YCR092C	MSH3	tagged	visualized	TAP visualized	736	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+24	YCR093W	CDC39	tagged	visualized	TAP visualized	4300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2578	YCR095C		tagged	visualized	TAP visualized	5370	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2132	YDL001W	RMD1	tagged	visualized	TAP visualized	952	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1374	YDL003W	MCD1	tagged	visualized	TAP visualized	1040	106.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1648	YDL017W	CDC7	tagged	visualized	TAP visualized	1600	816.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2969	YDL021W	GPM2	tagged	visualized	TAP visualized	2020	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1913	YDL036C		tagged	visualized	TAP visualized	639	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+563	YDL040C	NAT1	tagged	visualized	TAP visualized	7600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2970	YDL047W	SIT4	tagged	visualized	TAP visualized	3970	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1748	YDL048C	STP4	tagged	visualized	TAP visualized	623	NA	cytoplasm,mitochondrion,nucleus	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3986	YDL053C		tagged	visualized	TAP visualized	1560	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2586	YDL055C	PSA1	tagged	visualized	TAP visualized	97100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3557	YDL059C	RAD59	tagged	visualized	TAP visualized	468	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+692	YDL060W	TSR1	tagged	visualized	TAP visualized	1390	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5179	YDL061C	RPS29B	tagged	visualized	TAP visualized	5410	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1158	YDL063C		tagged	visualized	TAP visualized	2600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3931	YDL064W	UBC9	tagged	visualized	TAP visualized	2600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2656	YDL065C	PEX19	tagged	visualized	TAP visualized	5350	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1091	YDL070W	BDF2	tagged	visualized	TAP visualized	2930	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2715	YDL078C	MDH3	tagged	visualized	TAP visualized	3300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2894	YDL082W	RPL13A	tagged	visualized	TAP visualized	133000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5155	YDL085C-A		tagged	visualized	TAP visualized	876	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2127	YDL090C	RAM1	tagged	visualized	TAP visualized	3910	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2099	YDL097C	RPN6	tagged	visualized	TAP visualized	16800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1829	YDL103C	QRI1	tagged	visualized	TAP visualized	5480	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4273	YDL110C		tagged	visualized	TAP visualized	2110	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3345	YDL111C	RRP42	tagged	visualized	TAP visualized	7110	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+105	YDL112W	TRM3	tagged	visualized	TAP visualized	861	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3538	YDL115C	IWR1	tagged	visualized	TAP visualized	1080	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+512	YDL117W	CYK3	tagged	visualized	TAP visualized	377	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+650	YDL122W	UBP1	tagged	visualized	TAP visualized	8970	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2956	YDL124W		tagged	visualized	TAP visualized	4030	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3922	YDL125C	HNT1	tagged	visualized	TAP visualized	5410	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+598	YDL126C	CDC48	tagged	visualized	TAP visualized	78400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3138	YDL129W		tagged	visualized	TAP visualized	450	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3797	YDL130W	RPP1B	tagged	visualized	TAP visualized	22400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+635	YDL132W	CDC53	tagged	visualized	TAP visualized	377	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5210	YDL133C-A	RPL41B	tagged	visualized	TAP visualized	4910	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2516	YDL134C	PPH21	tagged	visualized	TAP visualized	5620	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3843	YDL135C	RDI1	tagged	visualized	TAP visualized	1670	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3413	YDL136W	RPL35B	tagged	visualized	TAP visualized	19100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3479	YDL139C	SCM3	tagged	visualized	TAP visualized	556	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+923	YDL141W	BPL1	tagged	visualized	TAP visualized	1970	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2599	YDL144C		tagged	visualized	TAP visualized	5170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1740	YDL146W		tagged	visualized	TAP visualized	329	NA	ambiguous,bud neck,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+2153	YDL155W	CLB3	tagged	visualized	TAP visualized	892	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1580	YDL156W		tagged	visualized	TAP visualized	3810	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1607	YDL159W	STE7	tagged	visualized	TAP visualized	672	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1656	YDL160C	DHH1	tagged	visualized	TAP visualized	42900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3942	YDL165W	CDC36	tagged	visualized	TAP visualized	2120	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3898	YDL166C	FAP7	tagged	visualized	TAP visualized	8350	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+841	YDL167C	NRP1	tagged	visualized	TAP visualized	3570	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2399	YDL168W	SFA1	tagged	visualized	TAP visualized	8370	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3092	YDL173W		tagged	visualized	TAP visualized	1140	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5211	YDL184C	RPL41A	tagged	visualized	TAP visualized	11900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2455	YDL188C	PPH22	tagged	visualized	TAP visualized	4110	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1948	YDL189W	RBS1	tagged	visualized	TAP visualized	892	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+408	YDL190C	UFD2	tagged	visualized	TAP visualized	2600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2842	YDL205C	HEM3	tagged	visualized	TAP visualized	8480	1080.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+284	YDL215C	GDH2	tagged	visualized	TAP visualized	7400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4081	YDL219W	DTD1	tagged	visualized	TAP visualized	4610	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+454	YDL220C	CDC13	tagged	visualized	TAP visualized	319	31.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2644	YDL226C	GCS1	tagged	visualized	TAP visualized	9560	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1176	YDL229W	SSB1	tagged	visualized	TAP visualized	170000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2785	YDL230W	PTP1	tagged	visualized	TAP visualized	2690	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1941	YDL233W		tagged	visualized	TAP visualized	1010	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+787	YDL234C	GYP7	tagged	visualized	TAP visualized	2460	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4129	YDL235C	YPD1	tagged	visualized	TAP visualized	6330	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2957	YDL236W	PHO13	tagged	visualized	TAP visualized	2980	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1753	YDL238C		tagged	visualized	TAP visualized	279	NA	ambiguous,cytoplasm	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+358	YDL240W	LRG1	tagged	visualized	TAP visualized	468	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+772	YDR001C	NTH1	tagged	visualized	TAP visualized	1840	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3777	YDR003W		tagged	visualized	TAP visualized	1230	NA	cytoplasm,vacuole	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1927	YDR004W	RAD57	tagged	visualized	TAP visualized	238	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2185	YDR005C	MAF1	tagged	visualized	TAP visualized	1720	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3658	YDR007W	TRP1	tagged	visualized	TAP visualized	1850	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1587	YDR009W	GAL3	tagged	visualized	TAP visualized	721	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2579	YDR012W	RPL4B	tagged	visualized	TAP visualized	151000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+326	YDR017C	KCS1	tagged	visualized	TAP visualized	1940	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3608	YDR020C		tagged	visualized	TAP visualized	4280	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+361	YDR028C	REG1	tagged	visualized	TAP visualized	2560	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+688	YDR034C	LYS14	tagged	visualized	TAP visualized	450	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2506	YDR035W	ARO3	tagged	visualized	TAP visualized	8970	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3616	YDR043C	NRG1	tagged	visualized	TAP visualized	556	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2832	YDR044W	HEM13	tagged	visualized	TAP visualized	22000	3430.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2580	YDR047W	HEM12	tagged	visualized	TAP visualized	9220	456.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1108	YDR049W		tagged	visualized	TAP visualized	3930	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3473	YDR050C	TPI1	tagged	visualized	TAP visualized	207000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2796	YDR051C		tagged	visualized	TAP visualized	3170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3093	YDR054C	CDC34	tagged	visualized	TAP visualized	8170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4042	YDR059C	UBC5	tagged	visualized	TAP visualized	981	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4282	YDR063W		tagged	visualized	TAP visualized	3040	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3910	YDR066C		tagged	visualized	TAP visualized	1050	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2975	YDR068W	DOS2	tagged	visualized	TAP visualized	3270	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3943	YDR071C		tagged	visualized	TAP visualized	8680	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+494	YDR074W	TPS2	tagged	visualized	TAP visualized	22700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3002	YDR075W	PPH3	tagged	visualized	TAP visualized	2840	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2269	YDR076W	RAD55	tagged	visualized	TAP visualized	1050	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5546	YDR091C	RLI1	tagged	visualized	TAP visualized	6280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3519	YDR092W	UBC13	tagged	visualized	TAP visualized	8970	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3186	YDR098C	GRX3	tagged	visualized	TAP visualized	11000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3285	YDR099W	BMH2	tagged	visualized	TAP visualized	47600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+461	YDR103W	STE5	tagged	visualized	TAP visualized	1900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+902	YDR108W	GSG1	tagged	visualized	TAP visualized	8760	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1649	YDR111C		tagged	visualized	TAP visualized	3480	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1042	YDR118W	APC4	tagged	visualized	TAP visualized	1330	85.3	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3911	YDR121W	DPB4	tagged	visualized	TAP visualized	2100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5305	YDR122W	KIN1	tagged	visualized	TAP visualized	279	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+70	YDR127W	ARO1	tagged	visualized	TAP visualized	6420	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1719	YDR132C		tagged	visualized	TAP visualized	172	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5013	YDR139C	RUB1	tagged	visualized	TAP visualized	1310	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3682	YDR140W	FYV9	tagged	visualized	TAP visualized	3390	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+863	YDR146C	SWI5	tagged	visualized	TAP visualized	688	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1510	YDR147W	EKI1	tagged	visualized	TAP visualized	3420	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3346	YDR152W	GIR2	tagged	visualized	TAP visualized	10300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4171	YDR155C	CPR1	tagged	visualized	TAP visualized	86000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2551	YDR158W	HOM2	tagged	visualized	TAP visualized	18400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2390	YDR161W	TCI1	tagged	visualized	TAP visualized	1630	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+831	YDR164C	SEC1	tagged	visualized	TAP visualized	639	NA	ambiguous,bud neck,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+1658	YDR168W	CDC37	tagged	visualized	TAP visualized	10200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1618	YDR169C	STB3	tagged	visualized	TAP visualized	639	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2477	YDR171W	HSP42	tagged	visualized	TAP visualized	1470	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+943	YDR172W	SUP35	tagged	visualized	TAP visualized	78900	9520.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2624	YDR173C	ARG82	tagged	visualized	TAP visualized	2720	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3734	YDR177W	UBC1	tagged	visualized	TAP visualized	8940	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4172	YDR179C	CSN9	tagged	visualized	TAP visualized	358	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1810	YDR181C	SAS4	tagged	visualized	TAP visualized	768	NA	ambiguous,cytoplasm,nucleus	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3624	YDR183W	PLP1	tagged	visualized	TAP visualized	2250	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3108	YDR184C	ATC1	tagged	visualized	TAP visualized	846	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+530	YDR186C		tagged	visualized	TAP visualized	195	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2507	YDR191W	HST4	tagged	visualized	TAP visualized	377	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1211	YDR200C	VPS64	tagged	visualized	TAP visualized	377	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+858	YDR211W	GCD6	tagged	visualized	TAP visualized	33800	6700.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2657	YDR214W	AHA1	tagged	visualized	TAP visualized	13900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+151	YDR217C	RAD9	tagged	visualized	TAP visualized	400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3675	YDR226W	ADK1	tagged	visualized	TAP visualized	123000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3705	YDR236C	FMN1	tagged	visualized	TAP visualized	830	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+695	YDR239C		tagged	visualized	TAP visualized	155	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1921	YDR247W	VHS1	tagged	visualized	TAP visualized	784	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3935	YDR248C		tagged	visualized	TAP visualized	504	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4283	YDR252W	BTT1	tagged	visualized	TAP visualized	1820	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1087	YDR266C		tagged	visualized	TAP visualized	1910	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2816	YDR267C		tagged	visualized	TAP visualized	5640	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3269	YDR272W	GLO2	tagged	visualized	TAP visualized	13700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+58	YDR283C	GCN2	tagged	visualized	TAP visualized	279	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3037	YDR288W		tagged	visualized	TAP visualized	2540	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+171	YDR293C	SSD1	tagged	visualized	TAP visualized	1100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2148	YDR300C	PRO1	tagged	visualized	TAP visualized	10400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3487	YDR305C	HNT2	tagged	visualized	TAP visualized	1920	NA	cytoplasm,mitochondrion,nucleus	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2420	YDR309C	GIC2	tagged	visualized	TAP visualized	1130	NA	ambiguous,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	T		
+1696	YDR330W		tagged	visualized	TAP visualized	6630	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+834	YDR333C		tagged	visualized	TAP visualized	339	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+191	YDR335W	MSN5	tagged	visualized	TAP visualized	3500	NA	cytoplasm,nuclear periphery,nucleus	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1811	YDR346C	SGI1	tagged	visualized	TAP visualized	45200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1235	YDR349C	YPS7	tagged	visualized	TAP visualized	149	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2905	YDR353W	TRR1	tagged	visualized	TAP visualized	292000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2441	YDR354W	TRP4	tagged	visualized	TAP visualized	1760	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1413	YDR358W	GGA1	tagged	visualized	TAP visualized	656	NA	cytoplasm,late Golgi	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F	F	F	F	F		
+3205	YDR361C	BCP1	tagged	visualized	TAP visualized	4590	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1952	YDR363W	ESC2	tagged	visualized	TAP visualized	1890	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1963	YDR364C	CDC40	tagged	visualized	TAP visualized	1630	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2958	YDR368W	YPR1	tagged	visualized	TAP visualized	14100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+564	YDR369C	XRS2	tagged	visualized	TAP visualized	358	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2052	YDR370C		tagged	visualized	TAP visualized	1040	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1632	YDR371W	CTS2	tagged	visualized	TAP visualized	3050	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2697	YDR372C	VPS74	tagged	visualized	TAP visualized	1850	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+366	YDR379W	RGA2	tagged	visualized	TAP visualized	254	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1099	YDR380W	ARO10	tagged	visualized	TAP visualized	6560	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4831	YDR382W	RPP2B	tagged	visualized	TAP visualized	602000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+580	YDR385W	EFT2	tagged	visualized	TAP visualized	78100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1037	YDR389W	SAC7	tagged	visualized	TAP visualized	1420	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3609	YDR391C		tagged	visualized	TAP visualized	6020	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+432	YDR395W	SXM1	tagged	visualized	TAP visualized	16300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3683	YDR399W	HPT1	tagged	visualized	TAP visualized	36500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3742	YDR408C	ADE8	tagged	visualized	TAP visualized	3910	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+475	YDR409W	SIZ1	tagged	visualized	TAP visualized	149	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4148	YDR418W	RPL12B	tagged	visualized	TAP visualized	50300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1110	YDR419W	RAD30	tagged	visualized	TAP visualized	1860	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+544	YDR422C	SIP1	tagged	visualized	TAP visualized	623	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2254	YDR423C	CAD1	tagged	visualized	TAP visualized	623	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1134	YDR425W	SNX41	tagged	visualized	TAP visualized	1800	NA	cytoplasm,endosome,lipid particle	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	T	F	F	T	F	F		
+1303	YDR440W	DOT1	tagged	visualized	TAP visualized	2160	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4019	YDR441C	APT2	tagged	visualized	TAP visualized	937	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+935	YDR444W		tagged	visualized	TAP visualized	2070	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3536	YDR447C	RPS17B	tagged	visualized	TAP visualized	30500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3140	YDR450W	RPS18A	tagged	visualized	TAP visualized	48100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3912	YDR453C	TSA2	tagged	visualized	TAP visualized	4820	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3971	YDR454C	GUK1	tagged	visualized	TAP visualized	20500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5203	YDR461W	MFA1	tagged	visualized	TAP visualized	28900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2237	YDR465C	RMT2	tagged	visualized	TAP visualized	1600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3353	YDR471W	RPL27B	tagged	visualized	TAP visualized	22900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1102	YDR477W	SNF1	tagged	visualized	TAP visualized	589	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1430	YDR479C	PEX29	tagged	visualized	TAP visualized	5040	NA	ambiguous,cytoplasm,punctate composite	T	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2873	YDR480W	DIG2	tagged	visualized	TAP visualized	1310	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4432	YDR482C	CWC21	tagged	visualized	TAP visualized	556	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3787	YDR487C	RIB3	tagged	visualized	TAP visualized	5460	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+785	YDR499W	LCD1	tagged	visualized	TAP visualized	606	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3711	YDR500C	RPL37B	tagged	visualized	TAP visualized	19700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+585	YDR505C	PSP1	tagged	visualized	TAP visualized	259	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+237	YDR507C	GIN4	tagged	visualized	TAP visualized	736	NA	ambiguous,bud neck,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+5016	YDR510W	SMT3	tagged	visualized	TAP visualized	2940	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2017	YDR515W	SLF1	tagged	visualized	TAP visualized	861	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1697	YDR516C	EMI2	tagged	visualized	TAP visualized	10600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+720	YDR520C		tagged	visualized	TAP visualized	937	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1799	YDR524C	AGE1	tagged	visualized	TAP visualized	396	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2066	YDR527W		tagged	visualized	TAP visualized	688	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2175	YDR528W	HLR1	tagged	visualized	TAP visualized	259	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2859	YDR530C	APA2	tagged	visualized	TAP visualized	1770	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2535	YDR531W		tagged	visualized	TAP visualized	6190	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3566	YDR533C		tagged	visualized	TAP visualized	358	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1674	YDR539W		tagged	visualized	TAP visualized	861	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4036	YDR540C		tagged	visualized	TAP visualized	172	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4603	YEL003W	GIM4	tagged	visualized	TAP visualized	1660	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+999	YEL007W	TOS9	tagged	visualized	TAP visualized	1710	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+885	YEL011W	GLC3	tagged	visualized	TAP visualized	1230	NA	cytoplasm,nucleus,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3383	YEL012W	UBC8	tagged	visualized	TAP visualized	1590	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3330	YEL019C	MMS21	tagged	visualized	TAP visualized	2800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+99	YEL022W	GEA2	tagged	visualized	TAP visualized	7700	NA	cytoplasm,early Golgi	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	T	F	F	F		
+2320	YEL037C	RAD23	tagged	visualized	TAP visualized	10900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3531	YEL038W	UTR4	tagged	visualized	TAP visualized	2850	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+6205	YEL039C	CYC7	tagged	visualized	TAP visualized	1310	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2391	YEL046C	GLY1	tagged	visualized	TAP visualized	106000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1859	YEL047C		tagged	visualized	TAP visualized	7620	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2363	YEL050C	RML2	tagged	visualized	TAP visualized	1580	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+810	YEL053C	MAK10	tagged	visualized	TAP visualized	1970	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4149	YEL054C	RPL12A	tagged	visualized	TAP visualized	68500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1414	YEL058W	PCM1	tagged	visualized	TAP visualized	14700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5137	YEL059C-A	SOM1	tagged	visualized	TAP visualized	358	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1100	YEL060C	PRB1	tagged	visualized	TAP visualized	1600	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4037	YEL066W	HPA3	tagged	visualized	TAP visualized	1160	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1714	YEL071W	DLD3	tagged	visualized	TAP visualized	13000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1928	YER003C	PMI40	tagged	visualized	TAP visualized	5220	516.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3729	YER007C-A		tagged	visualized	TAP visualized	4220	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+236	YER013W	PRP22	tagged	visualized	TAP visualized	907	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1569	YER021W	RPN3	tagged	visualized	TAP visualized	16700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3181	YER023W	PRO3	tagged	visualized	TAP visualized	43500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+456	YER024W	YAT2	tagged	visualized	TAP visualized	319	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1542	YER025W	GCD11	tagged	visualized	TAP visualized	20800	2840.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2206	YER027C	GAL83	tagged	visualized	TAP visualized	3590	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6078	YER031C	YPT31	tagged	visualized	TAP visualized	5960	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3987	YER034W		tagged	visualized	TAP visualized	1100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4329	YER035W	EDC2	tagged	visualized	TAP visualized	538	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1191	YER036C	KRE30	tagged	visualized	TAP visualized	17600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2889	YER037W	PHM8	tagged	visualized	TAP visualized	195	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+819	YER040W	GLN3	tagged	visualized	TAP visualized	589	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3995	YER042W	MXR1	tagged	visualized	TAP visualized	3070	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+491	YER047C	SAP1	tagged	visualized	TAP visualized	300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1543	YER052C	HOM3	tagged	visualized	TAP visualized	48100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1467	YER054C	GIP2	tagged	visualized	TAP visualized	125	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3434	YER056C-A	RPL34A	tagged	visualized	TAP visualized	23600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2193	YER059W	PCL6	tagged	visualized	TAP visualized	1240	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3457	YER062C	HOR2	tagged	visualized	TAP visualized	5000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4179	YER067W		tagged	visualized	TAP visualized	8450	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1271	YER068W	MOT2	tagged	visualized	TAP visualized	4280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+445	YER075C	PTP3	tagged	visualized	TAP visualized	768	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3778	YER079W		tagged	visualized	TAP visualized	1890	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1866	YER081W	SER3	tagged	visualized	TAP visualized	7670	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4524	YER084W		tagged	visualized	TAP visualized	300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+985	YER088C	DOT6	tagged	visualized	TAP visualized	2120	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1901	YER089C	PTC2	tagged	visualized	TAP visualized	12600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1650	YER090W	TRP2	tagged	visualized	TAP visualized	6510	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+730	YER091C	MET6	tagged	visualized	TAP visualized	264000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2305	YER095W	RAD51	tagged	visualized	TAP visualized	6960	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+763	YER098W	UBP9	tagged	visualized	TAP visualized	98.9	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2912	YER099C	PRS2	tagged	visualized	TAP visualized	8120	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2134	YER101C	AST2	tagged	visualized	TAP visualized	937	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3866	YER102W	RPS8B	tagged	visualized	TAP visualized	14400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1077	YER103W	SSA4	tagged	visualized	TAP visualized	17900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3788	YER104W	RTT105	tagged	visualized	TAP visualized	259	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5868	YER107C	GLE2	tagged	visualized	TAP visualized	1820	136.0	cytoplasm,nuclear periphery	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+265	YER110C	KAP123	tagged	visualized	TAP visualized	38300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+282	YER111C	SWI4	tagged	visualized	TAP visualized	589	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3973	YER112W	LSM4	tagged	visualized	TAP visualized	3440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+336	YER114C	BOI2	tagged	visualized	TAP visualized	688	NA	bud neck,cytoplasm,cell periphery,punctate composite,bud	F	F	F	F	T	T	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+5865	YER118C	SHO1	tagged	visualized	TAP visualized	2330	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+3367	YER126C	NSA2	tagged	visualized	TAP visualized	8660	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+238	YER129W	PAK1	tagged	visualized	TAP visualized	752	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4681	YER131W	RPS26B	tagged	visualized	TAP visualized	503000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+48	YER132C	PMD1	tagged	visualized	TAP visualized	815	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1766	YER133W	GLC7	tagged	visualized	TAP visualized	14600	NA	cytoplasm,nucleus,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4043	YER134C		tagged	visualized	TAP visualized	6190	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5761	YER136W	GDI1	tagged	visualized	TAP visualized	7280	967.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3647	YER139C		tagged	visualized	TAP visualized	5480	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5785	YER143W	DDI1	tagged	visualized	TAP visualized	6510	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1139	YER147C	SCC4	tagged	visualized	TAP visualized	907	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+468	YER151C	UBP3	tagged	visualized	TAP visualized	2210	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2045	YER152C		tagged	visualized	TAP visualized	1390	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+20	YER155C	BEM2	tagged	visualized	TAP visualized	1230	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+2766	YER156C		tagged	visualized	TAP visualized	6080	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+764	YER162C	RAD4	tagged	visualized	TAP visualized	876	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3610	YER163C		tagged	visualized	TAP visualized	1300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1323	YER165W	PAB1	tagged	visualized	TAP visualized	198000	48500.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1472	YER168C	CCA1	tagged	visualized	TAP visualized	13500	2310.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+712	YER171W	RAD3	tagged	visualized	TAP visualized	14400	1300.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+21	YER172C	BRR2	tagged	visualized	TAP visualized	1440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1021	YER173W	RAD24	tagged	visualized	TAP visualized	752	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3508	YER174C	GRX4	tagged	visualized	TAP visualized	7800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3064	YER175C	TMT1	tagged	visualized	TAP visualized	937	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+253	YER176W	ECM32	tagged	visualized	TAP visualized	736	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3332	YER177W	BMH1	tagged	visualized	TAP visualized	158000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3424	YFL006W		tagged	visualized	TAP visualized	1500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5230	YFL007W	BLM3	tagged	visualized	TAP visualized	2600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+190	YFL008W	SMC1	tagged	visualized	TAP visualized	5710	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3767	YFL010C	WWM1	tagged	visualized	TAP visualized	6020	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4848	YFL014W	HSP12	tagged	visualized	TAP visualized	4490	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4195	YFL017C	GNA1	tagged	visualized	TAP visualized	2550	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1637	YFL021W	GAT1	tagged	visualized	TAP visualized	1180	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+675	YFL023W	BUD27	tagged	visualized	TAP visualized	1300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3162	YFL028C	CAF16	tagged	visualized	TAP visualized	1620	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3867	YFL031W	HAC1	tagged	visualized	TAP visualized	8970	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3633	YFL034C-A	RPL22B	tagged	visualized	TAP visualized	74700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2860	YFL034C-B	MOB2	tagged	visualized	TAP visualized	2250	NA	cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3048	YFL044C		tagged	visualized	TAP visualized	2770	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+6041	YFL045C	SEC53	tagged	visualized	TAP visualized	3500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+850	YFL047W	RGD2	tagged	visualized	TAP visualized	1750	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+3016	YFR004W	RPN11	tagged	visualized	TAP visualized	16400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2011	YFR005C	SAD1	tagged	visualized	TAP visualized	167	22.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+770	YFR009W	GCN20	tagged	visualized	TAP visualized	14600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1703	YFR010W	UBP6	tagged	visualized	TAP visualized	6770	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4107	YFR011C		tagged	visualized	TAP visualized	3550	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2023	YFR014C	CMK1	tagged	visualized	TAP visualized	1520	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+868	YFR015C	GSY1	tagged	visualized	TAP visualized	6300	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+182	YFR016C		tagged	visualized	TAP visualized	704	NA	ambiguous,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	T		
+3924	YFR017C		tagged	visualized	TAP visualized	639	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1747	YFR024C-A	LSB3	tagged	visualized	TAP visualized	3670	NA	bud neck,cytoplasm,mitochondrion,cell periphery	F	T	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+2787	YFR025C	HIS2	tagged	visualized	TAP visualized	4280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5312	YFR030W	MET10	tagged	visualized	TAP visualized	1580	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+220	YFR031C	SMC2	tagged	visualized	TAP visualized	3290	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5173	YFR032C-A	RPL29	tagged	visualized	TAP visualized	51100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6185	YFR033C	QCR6	tagged	visualized	TAP visualized	4490	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+474	YFR040W	SAP155	tagged	visualized	TAP visualized	5960	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1812	YFR044C		tagged	visualized	TAP visualized	22300	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3096	YFR047C	BNA6	tagged	visualized	TAP visualized	2660	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3338	YFR050C	PRE4	tagged	visualized	TAP visualized	16900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1780	YFR053C	HXK1	tagged	visualized	TAP visualized	40800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2207	YGL004C	RPN14	tagged	visualized	TAP visualized	2210	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+709	YGL009C	LEU1	tagged	visualized	TAP visualized	96300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3440	YGL011C	SCL1	tagged	visualized	TAP visualized	15200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+506	YGL014W	PUF4	tagged	visualized	TAP visualized	721	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5300	YGL016W	KAP122	tagged	visualized	TAP visualized	9760	NA	cytoplasm,nuclear periphery,nucleus	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1676	YGL017W	ATE1	tagged	visualized	TAP visualized	2030	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3246	YGL019W	CKB1	tagged	visualized	TAP visualized	8120	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+870	YGL026C	TRP5	tagged	visualized	TAP visualized	15500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4232	YGL031C	RPL24A	tagged	visualized	TAP visualized	247000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1670	YGL035C	MIG1	tagged	visualized	TAP visualized	830	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+471	YGL036W	MTC2	tagged	visualized	TAP visualized	486	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2670	YGL039W		tagged	visualized	TAP visualized	2340	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2722	YGL040C	HEM2	tagged	visualized	TAP visualized	11600	1210.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3361	YGL046W		tagged	visualized	TAP visualized	3040	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+464	YGL049C	TIF4632	tagged	visualized	TAP visualized	3390	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1544	YGL056C	SDS23	tagged	visualized	TAP visualized	21200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4091	YGL058W	RAD6	tagged	visualized	TAP visualized	2770	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1080	YGL060W	YBP2	tagged	visualized	TAP visualized	3870	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+213	YGL062W	PYC1	tagged	visualized	TAP visualized	12500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2414	YGL067W	NPY1	tagged	visualized	TAP visualized	846	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+924	YGL071W	RCS1	tagged	visualized	TAP visualized	2730	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1439	YGL076C	RPL7A	tagged	visualized	TAP visualized	101000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2431	YGL082W		tagged	visualized	TAP visualized	7620	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4144	YGL087C	MMS2	tagged	visualized	TAP visualized	2760	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2188	YGL090W	LIF1	tagged	visualized	TAP visualized	876	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+263	YGL094C	PAN2	tagged	visualized	TAP visualized	1510	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1082	YGL099W	LSG1	tagged	visualized	TAP visualized	19400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3735	YGL101W		tagged	visualized	TAP visualized	1500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2461	YGL105W	ARC1	tagged	visualized	TAP visualized	57700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1140	YGL110C	CUE3	tagged	visualized	TAP visualized	6300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+993	YGL113W	SLD3	tagged	visualized	TAP visualized	125	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2881	YGL115W	SNF4	tagged	visualized	TAP visualized	11700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1227	YGL125W	MET13	tagged	visualized	TAP visualized	8600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1933	YGL130W	CEG1	tagged	visualized	TAP visualized	279	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2111	YGL134W	PCL10	tagged	visualized	TAP visualized	217	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3713	YGL135W	RPL1B	tagged	visualized	TAP visualized	265000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+469	YGL141W	HUL5	tagged	visualized	TAP visualized	3120	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3947	YGL147C	RPL9A	tagged	visualized	TAP visualized	52400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2462	YGL148W	ARO2	tagged	visualized	TAP visualized	2310	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2463	YGL155W	CDC43	tagged	visualized	TAP visualized	3940	75.5	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2679	YGL157W		tagged	visualized	TAP visualized	2950	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2977	YGL161C	YIP5	tagged	visualized	TAP visualized	937	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3065	YGL162W	SUT1	tagged	visualized	TAP visualized	1100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2063	YGL164C	YRB30	tagged	visualized	TAP visualized	3670	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3655	YGL166W	CUP2	tagged	visualized	TAP visualized	1760	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2160	YGL169W	SUA5	tagged	visualized	TAP visualized	538	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+81	YGL173C	KEM1	tagged	visualized	TAP visualized	11700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2699	YGL175C	SAE2	tagged	visualized	TAP visualized	1030	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+307	YGL178W	MPT5	tagged	visualized	TAP visualized	1240	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2331	YGL181W	GTS1	tagged	visualized	TAP visualized	937	NA	cytoplasm,actin	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	T	F	F	F	F	F		
+2449	YGL185C		tagged	visualized	TAP visualized	1430	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4683	YGL189C	RPS26A	tagged	visualized	TAP visualized	16300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1548	YGL190C	CDC55	tagged	visualized	TAP visualized	8600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1987	YGL194C	HOS2	tagged	visualized	TAP visualized	4890	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+8	YGL195W	GCN1	tagged	visualized	TAP visualized	7330	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+91	YGL197W	MDS3	tagged	visualized	TAP visualized	396	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+359	YGL201C	MCM6	tagged	visualized	TAP visualized	13400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1699	YGL202W	ARO8	tagged	visualized	TAP visualized	1770	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6080	YGL210W	YPT32	tagged	visualized	TAP visualized	4300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5937	YGL212W	VAM7	tagged	visualized	TAP visualized	2360	NA	cytoplasm,vacuole	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2324	YGL213C	SKI8	tagged	visualized	TAP visualized	1710	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4658	YGL220W		tagged	visualized	TAP visualized	2050	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3166	YGL221C	NIF3	tagged	visualized	TAP visualized	6000	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+414	YGL227W	VID30	tagged	visualized	TAP visualized	1500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+626	YGL229C	SAP4	tagged	visualized	TAP visualized	279	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3000	YGL232W		tagged	visualized	TAP visualized	2630	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5353	YGL233W	SEC15	tagged	visualized	TAP visualized	4280	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+664	YGL234W	ADE5,7	tagged	visualized	TAP visualized	35800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5332	YGL238W	CSE1	tagged	visualized	TAP visualized	23500	1700.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3206	YGL240W	DOC1	tagged	visualized	TAP visualized	1360	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+370	YGL241W	KAP114	tagged	visualized	TAP visualized	2940	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+832	YGL245W		tagged	visualized	TAP visualized	48700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3499	YGL250W		tagged	visualized	TAP visualized	1820	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1267	YGL252C	RTG2	tagged	visualized	TAP visualized	3260	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1773	YGL253W	HXK2	tagged	visualized	TAP visualized	114000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3066	YGL254W	FZF1	tagged	visualized	TAP visualized	2120	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3063	YGR001C		tagged	visualized	TAP visualized	3060	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+793	YGR003W	CUL3	tagged	visualized	TAP visualized	172	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2874	YGR007W	MUQ1	tagged	visualized	TAP visualized	4700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5113	YGR008C	STF2	tagged	visualized	TAP visualized	5330	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2337	YGR010W	NMA2	tagged	visualized	TAP visualized	1430	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1160	YGR013W	SNU71	tagged	visualized	TAP visualized	782	266.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3079	YGR017W		tagged	visualized	TAP visualized	2840	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1852	YGR019W	UGA1	tagged	visualized	TAP visualized	573	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3568	YGR024C		tagged	visualized	TAP visualized	1170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4870	YGR027C	RPS25A	tagged	visualized	TAP visualized	322000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3481	YGR034W	RPL26B	tagged	visualized	TAP visualized	33200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5097	YGR037C	ACB1	tagged	visualized	TAP visualized	8500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2526	YGR040W	KSS1	tagged	visualized	TAP visualized	5480	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+354	YGR047C	TFC4	tagged	visualized	TAP visualized	876	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2588	YGR048W	UFD1	tagged	visualized	TAP visualized	3530	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2518	YGR052W		tagged	visualized	TAP visualized	339	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2788	YGR058W		tagged	visualized	TAP visualized	1630	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+135	YGR061C	ADE6	tagged	visualized	TAP visualized	40800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2393	YGR072W	UPF3	tagged	visualized	TAP visualized	1250	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3876	YGR078C	PAC10	tagged	visualized	TAP visualized	6550	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1043	YGR083C	GCD2	tagged	visualized	TAP visualized	10300	1000.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4076	YGR085C	RPL11B	tagged	visualized	TAP visualized	21200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1391	YGR087C	PDC6	tagged	visualized	TAP visualized	1520	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1344	YGR088W	CTT1	tagged	visualized	TAP visualized	319	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1723	YGR091W	PRP31	tagged	visualized	TAP visualized	1260	135.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1348	YGR092W	DBF2	tagged	visualized	TAP visualized	3500	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+270	YGR094W	VAS1	tagged	visualized	TAP visualized	358	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3403	YGR095C	RRP46	tagged	visualized	TAP visualized	10800	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+424	YGR100W	MDR1	tagged	visualized	TAP visualized	768	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2308	YGR111W		tagged	visualized	TAP visualized	768	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1834	YGR117C		tagged	visualized	TAP visualized	1280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3444	YGR118W	RPS23A	tagged	visualized	TAP visualized	10600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1619	YGR123C	PPT1	tagged	visualized	TAP visualized	6990	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1349	YGR124W	ASN2	tagged	visualized	TAP visualized	58200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+252	YGR134W	CAF130	tagged	visualized	TAP visualized	1320	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3390	YGR135W	PRE9	tagged	visualized	TAP visualized	17100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4233	YGR148C	RPL24B	tagged	visualized	TAP visualized	36900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1652	YGR155W	CYS4	tagged	visualized	TAP visualized	41900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3458	YGR158C	MTR3	tagged	visualized	TAP visualized	7380	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3356	YGR161C	RTS3	tagged	visualized	TAP visualized	2100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+422	YGR162W	TIF4631	tagged	visualized	TAP visualized	9760	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2527	YGR173W	GIR1	tagged	visualized	TAP visualized	6200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+836	YGR178C	PBP1	tagged	visualized	TAP visualized	2870	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2701	YGR180C	RNR4	tagged	visualized	TAP visualized	88900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2350	YGR185C	TYS1	tagged	visualized	TAP visualized	2710	305.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2351	YGR187C	HGH1	tagged	visualized	TAP visualized	20800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1653	YGR189C	CRH1	tagged	visualized	TAP visualized	29500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2809	YGR192C	TDH3	tagged	visualized	TAP visualized	169000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1226	YGR194C	XKS1	tagged	visualized	TAP visualized	3460	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+693	YGR200C	ELP2	tagged	visualized	TAP visualized	6090	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4296	YGR203W		tagged	visualized	TAP visualized	2310	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+426	YGR204W	ADE3	tagged	visualized	TAP visualized	35600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3152	YGR205W		tagged	visualized	TAP visualized	4280	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2991	YGR208W	SER2	tagged	visualized	TAP visualized	13800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+6209	YGR209C	TRX2	tagged	visualized	TAP visualized	17200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2244	YGR210C		tagged	visualized	TAP visualized	11600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1774	YGR211W	ZPR1	tagged	visualized	TAP visualized	39900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2289	YGR214W	RPS0A	tagged	visualized	TAP visualized	93700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3639	YGR232W	NAS6	tagged	visualized	TAP visualized	319	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+214	YGR233C	PHO81	tagged	visualized	TAP visualized	2930	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2315	YGR234W	YHB1	tagged	visualized	TAP visualized	13000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+700	YGR237C		tagged	visualized	TAP visualized	1050	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+382	YGR240C	PFK1	tagged	visualized	TAP visualized	89800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3414	YGR248W	SOL4	tagged	visualized	TAP visualized	4320	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+704	YGR250C		tagged	visualized	TAP visualized	1910	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3377	YGR253C	PUP2	tagged	visualized	TAP visualized	17100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2073	YGR254W	ENO1	tagged	visualized	TAP visualized	76700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+348	YGR258C	RAD2	tagged	visualized	TAP visualized	846	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3369	YGR262C	BUD32	tagged	visualized	TAP visualized	3020	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+773	YGR264C	MES1	tagged	visualized	TAP visualized	85000	26800.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3514	YGR267C	FOL2	tagged	visualized	TAP visualized	2840	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4871	YGR269W		tagged	visualized	TAP visualized	279	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+27	YGR271W	SLH1	tagged	visualized	TAP visualized	486	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3023	YGR277C		tagged	visualized	TAP visualized	3610	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1325	YGR278W	CWC22	tagged	visualized	TAP visualized	3260	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2112	YGR285C	ZUO1	tagged	visualized	TAP visualized	86400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3306	YHL001W	RPL14B	tagged	visualized	TAP visualized	35100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+439	YHL007C	STE20	tagged	visualized	TAP visualized	259	NA	cytoplasm,bud	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	T		
+2817	YHL009C	YAP3	tagged	visualized	TAP visualized	1680	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3006	YHL013C		tagged	visualized	TAP visualized	172	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1135	YHL027W	RIM101	tagged	visualized	TAP visualized	1820	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+961	YHL029C		tagged	visualized	TAP visualized	12500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+39	YHL030W	ECM29	tagged	visualized	TAP visualized	2950	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3404	YHL033C	RPL8A	tagged	visualized	TAP visualized	238000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3111	YHL034C	SBP1	tagged	visualized	TAP visualized	12800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1285	YHL039W		tagged	visualized	TAP visualized	5170	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1493	YHR006W	STP2	tagged	visualized	TAP visualized	6490	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1571	YHR009C		tagged	visualized	TAP visualized	5240	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2875	YHR010W	RPL27A	tagged	visualized	TAP visualized	7380	NA	cytoplasm,nucleolus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F		
+3558	YHR013C	ARD1	tagged	visualized	TAP visualized	3310	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1022	YHR015W	MIP6	tagged	visualized	TAP visualized	98.9	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1910	YHR018C	ARG4	tagged	visualized	TAP visualized	10200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5321	YHR027C	RPN1	tagged	visualized	TAP visualized	306000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1783	YHR030C	SLT2	tagged	visualized	TAP visualized	3230	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+835	YHR031C	RRM3	tagged	visualized	TAP visualized	656	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2709	YHR034C		tagged	visualized	TAP visualized	2610	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2545	YHR040W	BCD1	tagged	visualized	TAP visualized	2800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3513	YHR041C	SRB2	tagged	visualized	TAP visualized	1720	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3491	YHR043C	DOG2	tagged	visualized	TAP visualized	2400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3097	YHR046C	INM1	tagged	visualized	TAP visualized	2440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+560	YHR047C	AAP1'	tagged	visualized	TAP visualized	77000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3515	YHR049W	FSH1	tagged	visualized	TAP visualized	14600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5167	YHR053C	CUP1-1	tagged	visualized	TAP visualized	31900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5168	YHR055C	CUP1-2	tagged	visualized	TAP visualized	6680	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3098	YHR058C	MED6	tagged	visualized	TAP visualized	4820	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2941	YHR061C	GIC1	tagged	visualized	TAP visualized	1100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2450	YHR063C	PAN5	tagged	visualized	TAP visualized	2600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1350	YHR064C	SSZ1	tagged	visualized	TAP visualized	73600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2394	YHR068W	DYS1	tagged	visualized	TAP visualized	7600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2600	YHR069C	RRP4	tagged	visualized	TAP visualized	4840	388.0	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+1704	YHR070W	TRM5	tagged	visualized	TAP visualized	4120	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+851	YHR074W	QNS1	tagged	visualized	TAP visualized	172	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+250	YHR077C	NMD2	tagged	visualized	TAP visualized	1280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+350	YHR082C	KSP1	tagged	visualized	TAP visualized	1270	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1572	YHR086W	NAM8	tagged	visualized	TAP visualized	1480	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4812	YHR087W		tagged	visualized	TAP visualized	2430	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+297	YHR102W	KIC1	tagged	visualized	TAP visualized	1040	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2843	YHR104W	GRE3	tagged	visualized	TAP visualized	12900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2064	YHR111W	UBA4	tagged	visualized	TAP visualized	2620	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2453	YHR112C		tagged	visualized	TAP visualized	1360	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1750	YHR113W		tagged	visualized	TAP visualized	172	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4267	YHR116W		tagged	visualized	TAP visualized	1360	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2091	YHR118C	ORC6	tagged	visualized	TAP visualized	2970	143.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3975	YHR121W		tagged	visualized	TAP visualized	8320	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3620	YHR122W		tagged	visualized	TAP visualized	1800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+587	YHR131C		tagged	visualized	TAP visualized	172	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4470	YHR132W-A		tagged	visualized	TAP visualized	1400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5661	YHR135C	YCK1	tagged	visualized	TAP visualized	1630	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1620	YHR137W	ARO9	tagged	visualized	TAP visualized	7700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3435	YHR141C	RPL42B	tagged	visualized	TAP visualized	3890	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5150	YHR143W-A	RPC10	tagged	visualized	TAP visualized	907	NA	cytoplasm,nucleolus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F		
+2962	YHR144C	DCD1	tagged	visualized	TAP visualized	1510	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+807	YHR149C		tagged	visualized	TAP visualized	1550	NA	bud neck,cytoplasm,cell periphery,bud	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+1671	YHR159W		tagged	visualized	TAP visualized	504	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3227	YHR163W	SOL3	tagged	visualized	TAP visualized	3420	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+11	YHR165C	PRP8	tagged	visualized	TAP visualized	468	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3370	YHR167W	THP2	tagged	visualized	TAP visualized	2840	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1594	YHR170W	NMD3	tagged	visualized	TAP visualized	11900	3930.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2075	YHR174W	ENO2	tagged	visualized	TAP visualized	2610	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+794	YHR178W	STB5	tagged	visualized	TAP visualized	279	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2310	YHR179W	OYE2	tagged	visualized	TAP visualized	15100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+701	YHR182W		tagged	visualized	TAP visualized	1720	NA	cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1756	YHR183W	GND1	tagged	visualized	TAP visualized	101000	NA	ambiguous,cytoplasm	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2992	YHR187W	IKI1	tagged	visualized	TAP visualized	3870	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3247	YHR192W		tagged	visualized	TAP visualized	3390	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4079	YHR193C	EGD2	tagged	visualized	TAP visualized	38000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3323	YHR200W	RPN10	tagged	visualized	TAP visualized	17200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2325	YHR201C	PPX1	tagged	visualized	TAP visualized	3170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2655	YHR203C	RPS4B	tagged	visualized	TAP visualized	102000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+676	YHR204W	MNL1	tagged	visualized	TAP visualized	656	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+619	YHR205W	SCH9	tagged	visualized	TAP visualized	3850	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1550	YHR207C	SET5	tagged	visualized	TAP visualized	5000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1573	YHR216W	IMD2	tagged	visualized	TAP visualized	7870	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1621	YIL001W		tagged	visualized	TAP visualized	195	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+427	YIL002C	INP51	tagged	visualized	TAP visualized	98.9	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3693	YIL007C	NAS2	tagged	visualized	TAP visualized	846	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5061	YIL008W	URM1	tagged	visualized	TAP visualized	1240	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3371	YIL020C	HIS6	tagged	visualized	TAP visualized	6490	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2215	YIL033C	BCY1	tagged	visualized	TAP visualized	4280	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2498	YIL035C	CKA1	tagged	visualized	TAP visualized	7180	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+597	YIL038C	NOT3	tagged	visualized	TAP visualized	2490	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2853	YIL041W	GVP36	tagged	visualized	TAP visualized	7720	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1500	YIL045W	PIG2	tagged	visualized	TAP visualized	996	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1083	YIL046W	MET30	tagged	visualized	TAP visualized	217	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3188	YIL050W	PCL7	tagged	visualized	TAP visualized	3390	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3243	YIL052C	RPL34B	tagged	visualized	TAP visualized	21000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3302	YIL053W	RHR2	tagged	visualized	TAP visualized	193000	NA	ambiguous,cytoplasm,nucleus	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1084	YIL056W		tagged	visualized	TAP visualized	279	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4157	YIL057C		tagged	visualized	TAP visualized	5530	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3057	YIL061C	SNP1	tagged	visualized	TAP visualized	736	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3398	YIL064W		tagged	visualized	TAP visualized	1620	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+538	YIL066C	RNR3	tagged	visualized	TAP visualized	1360	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3298	YIL069C	RPS24B	tagged	visualized	TAP visualized	6160	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2037	YIL071C	PCI8	tagged	visualized	TAP visualized	504	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1867	YIL074C	SER33	tagged	visualized	TAP visualized	2010	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+430	YIL075C	RPN2	tagged	visualized	TAP visualized	4750	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+808	YIL078W	THS1	tagged	visualized	TAP visualized	42600	4750.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2592	YIL079C	AIR1	tagged	visualized	TAP visualized	1550	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2553	YIL083C		tagged	visualized	TAP visualized	3170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1104	YIL092W		tagged	visualized	TAP visualized	105	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1601	YIL097W	FYV10	tagged	visualized	TAP visualized	784	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2166	YIL103W		tagged	visualized	TAP visualized	2530	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2720	YIL106W	MOB1	tagged	visualized	TAP visualized	5020	NA	cytoplasm,spindle pole	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+612	YIL107C	PFK26	tagged	visualized	TAP visualized	1710	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+905	YIL108W		tagged	visualized	TAP visualized	195	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2263	YIL119C	RPI1	tagged	visualized	TAP visualized	1340	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+346	YIL128W	MET18	tagged	visualized	TAP visualized	3150	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3749	YIL132C	CSM2	tagged	visualized	TAP visualized	414	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3090	YIL133C	RPL16A	tagged	visualized	TAP visualized	43300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2084	YIL135C	VHS2	tagged	visualized	TAP visualized	2180	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+428	YIL137C		tagged	visualized	TAP visualized	5110	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4181	YIL138C	TPM2	tagged	visualized	TAP visualized	11100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2702	YIL145C	PAN6	tagged	visualized	TAP visualized	2400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3293	YIL148W	RPL40A	tagged	visualized	TAP visualized	11800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1356	YIL150C	MCM10	tagged	visualized	TAP visualized	1860	202.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2366	YIL153W	RRD1	tagged	visualized	TAP visualized	4590	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2691	YIL154C	IMP2'	tagged	visualized	TAP visualized	5110	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+309	YIL156W	UBP7	tagged	visualized	TAP visualized	606	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3590	YIL161W		tagged	visualized	TAP visualized	1230	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1262	YIL172C		tagged	visualized	TAP visualized	166	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3459	YIR001C	SGN1	tagged	visualized	TAP visualized	6490	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4298	YIR005W	IST3	tagged	visualized	TAP visualized	922	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+740	YIR007W		tagged	visualized	TAP visualized	1070	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4815	YIR009W	MSL1	tagged	visualized	TAP visualized	504	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2906	YIR011C	STS1	tagged	visualized	TAP visualized	2120	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2130	YIR012W	SQT1	tagged	visualized	TAP visualized	19700	5170.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3502	YIR018W	YAP5	tagged	visualized	TAP visualized	238	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2561	YIR026C	YVH1	tagged	visualized	TAP visualized	7570	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2491	YIR034C	LYS1	tagged	visualized	TAP visualized	112000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3426	YIR035C		tagged	visualized	TAP visualized	2370	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3357	YIR036C		tagged	visualized	TAP visualized	1620	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4163	YIR037W	HYR1	tagged	visualized	TAP visualized	8120	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1609	YJL013C	MAD3	tagged	visualized	TAP visualized	3170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4101	YJL016W		tagged	visualized	TAP visualized	3360	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2862	YJL017W		tagged	visualized	TAP visualized	172	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2316	YJL026W	RNR2	tagged	visualized	TAP visualized	538	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3915	YJL030W	MAD2	tagged	visualized	TAP visualized	1110	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3460	YJL035C	TAD2	tagged	visualized	TAP visualized	830	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+123	YJL042W	MHP1	tagged	visualized	TAP visualized	279	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2811	YJL052W	TDH1	tagged	visualized	TAP visualized	120000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3503	YJL055W		tagged	visualized	TAP visualized	6440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1485	YJL058C	BIT61	tagged	visualized	TAP visualized	1960	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2038	YJL060W	BNA3	tagged	visualized	TAP visualized	1600	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3067	YJL068C		tagged	visualized	TAP visualized	1750	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+507	YJL070C		tagged	visualized	TAP visualized	1100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+817	YJL082W	IML2	tagged	visualized	TAP visualized	4980	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+331	YJL084C		tagged	visualized	TAP visualized	49.2	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+613	YJL087C	TRL1	tagged	visualized	TAP visualized	3110	56.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2767	YJL088W	ARG3	tagged	visualized	TAP visualized	1140	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+741	YJL090C	DPB11	tagged	visualized	TAP visualized	540	55.4	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+93	YJL095W	BCK1	tagged	visualized	TAP visualized	112	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+320	YJL098W	SAP185	tagged	visualized	TAP visualized	11200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+965	YJL101C	GSH1	tagged	visualized	TAP visualized	5130	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1452	YJL110C	GZF3	tagged	visualized	TAP visualized	319	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3560	YJL121C	RPE1	tagged	visualized	TAP visualized	3310	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1823	YJL123C		tagged	visualized	TAP visualized	2160	NA	cytoplasm,Golgi,early Golgi	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	T	F	T	F	F	F		
+4092	YJL124C	LSM1	tagged	visualized	TAP visualized	3490	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1085	YJL127C	SPT10	tagged	visualized	TAP visualized	1500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+994	YJL128C	PBS2	tagged	visualized	TAP visualized	2160	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+17	YJL130C	URA2	tagged	visualized	TAP visualized	11000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3537	YJL136C	RPS21B	tagged	visualized	TAP visualized	15300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2445	YJL137C	GLG2	tagged	visualized	TAP visualized	981	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6174	YJL143W	TIM17	tagged	visualized	TAP visualized	1210	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4959	YJL144W		tagged	visualized	TAP visualized	149	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3113	YJL145W	SFH5	tagged	visualized	TAP visualized	6540	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1868	YJL146W	IDS2	tagged	visualized	TAP visualized	1850	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1990	YJL155C	FBP26	tagged	visualized	TAP visualized	1680	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1802	YJL162C		tagged	visualized	TAP visualized	184	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2326	YJL164C	TPK1	tagged	visualized	TAP visualized	4320	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3159	YJL177W	RPL17B	tagged	visualized	TAP visualized	21100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4852	YJL179W	PFD1	tagged	visualized	TAP visualized	721	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2863	YJL180C	ATP12	tagged	visualized	TAP visualized	6370	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3276	YJL191W	RPS14B	tagged	visualized	TAP visualized	3370	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+169	YJL197W	UBP12	tagged	visualized	TAP visualized	7110	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1228	YJL201W	ECM25	tagged	visualized	TAP visualized	1750	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+588	YJL204C	RCY1	tagged	visualized	TAP visualized	2700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3890	YJL217W		tagged	visualized	TAP visualized	721	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3029	YJR007W	SUI2	tagged	visualized	TAP visualized	17100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2768	YJR008W		tagged	visualized	TAP visualized	339	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2812	YJR009C	TDH2	tagged	visualized	TAP visualized	121000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1634	YJR010W	MET3	tagged	visualized	TAP visualized	1510	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3891	YJR014W		tagged	visualized	TAP visualized	21600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1639	YJR015W		tagged	visualized	TAP visualized	639	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3958	YJR017C	ESS1	tagged	visualized	TAP visualized	4400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4525	YJR022W	LSM8	tagged	visualized	TAP visualized	1440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3511	YJR024C		tagged	visualized	TAP visualized	952	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4050	YJR025C	BNA1	tagged	visualized	TAP visualized	2330	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2367	YJR032W	CPR7	tagged	visualized	TAP visualized	3230	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2659	YJR043C	POL32	tagged	visualized	TAP visualized	2410	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1213	YJR046W	TAH11	tagged	visualized	TAP visualized	2190	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4212	YJR047C	ANB1	tagged	visualized	TAP visualized	14200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4853	YJR048W	CYC1	tagged	visualized	TAP visualized	7330	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1526	YJR049C	UTR1	tagged	visualized	TAP visualized	5040	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3591	YJR050W	ISY1	tagged	visualized	TAP visualized	1990	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1383	YJR052W	RAD7	tagged	visualized	TAP visualized	937	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4158	YJR055W	HIT1	tagged	visualized	TAP visualized	2730	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3579	YJR056C		tagged	visualized	TAP visualized	1890	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3726	YJR057W	CDC8	tagged	visualized	TAP visualized	2980	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+627	YJR059W	PTK2	tagged	visualized	TAP visualized	1420	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4377	YJR067C	YAE1	tagged	visualized	TAP visualized	1500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3902	YJR069C	HAM1	tagged	visualized	TAP visualized	3490	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2864	YJR070C		tagged	visualized	TAP visualized	39900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2409	YJR072C		tagged	visualized	TAP visualized	15200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3708	YJR074W	MOG1	tagged	visualized	TAP visualized	2840	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2177	YJR084W	CSN12	tagged	visualized	TAP visualized	1510	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+6207	YJR086W	STE18	tagged	visualized	TAP visualized	5550	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4001	YJR094W-A	RPL43B	tagged	visualized	TAP visualized	45500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3214	YJR096W		tagged	visualized	TAP visualized	6960	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4093	YJR097W		tagged	visualized	TAP visualized	2010	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1034	YJR098C		tagged	visualized	TAP visualized	1230	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1387	YJR103W	URA8	tagged	visualized	TAP visualized	5370	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4241	YJR104C	SOD1	tagged	visualized	TAP visualized	519000	NA	ambiguous,cytoplasm,nucleus	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2749	YJR105W	ADO1	tagged	visualized	TAP visualized	22200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+258	YJR109C	CPA2	tagged	visualized	TAP visualized	18000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+932	YJR110W		tagged	visualized	TAP visualized	1080	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+824	YJR119C		tagged	visualized	TAP visualized	290	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2759	YJR129C		tagged	visualized	TAP visualized	1550	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1088	YJR130C	STR2	tagged	visualized	TAP visualized	2070	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+327	YJR132W	NMD5	tagged	visualized	TAP visualized	13500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3784	YJR133W	XPT1	tagged	visualized	TAP visualized	721	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2189	YJR136C		tagged	visualized	TAP visualized	1470	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+103	YJR137C	ECM17	tagged	visualized	TAP visualized	2900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2601	YJR139C	HOM6	tagged	visualized	TAP visualized	48900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2687	YJR145C	RPS4A	tagged	visualized	TAP visualized	573	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4713	YJR146W		tagged	visualized	TAP visualized	952	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2605	YJR147W	HMS2	tagged	visualized	TAP visualized	2050	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2466	YJR148W	BAT2	tagged	visualized	TAP visualized	25900	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2284	YJR149W		tagged	visualized	TAP visualized	172	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2692	YJR154W		tagged	visualized	TAP visualized	1600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3848	YKL001C	MET14	tagged	visualized	TAP visualized	2170	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3307	YKL006W	RPL14A	tagged	visualized	TAP visualized	45300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+92	YKL010C	UFD4	tagged	visualized	TAP visualized	7380	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+387	YKL015W	PUT3	tagged	visualized	TAP visualized	736	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+950	YKL017C	HCS1	tagged	visualized	TAP visualized	1040	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5062	YKL018C-A		tagged	visualized	TAP visualized	358	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5299	YKL020C	SPT23	tagged	visualized	TAP visualized	432	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3253	YKL023W		tagged	visualized	TAP visualized	1730	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3819	YKL024C	URA6	tagged	visualized	TAP visualized	1500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+963	YKL025C	PAN3	tagged	visualized	TAP visualized	1600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+338	YKL033W		tagged	visualized	TAP visualized	721	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1706	YKL035W	UGP1	tagged	visualized	TAP visualized	17200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+221	YKL038W	RGT1	tagged	visualized	TAP visualized	195	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1602	YKL047W		tagged	visualized	TAP visualized	2550	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5101	YKL053C-A	MDM35	tagged	visualized	TAP visualized	3870	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+799	YKL054C	DEF1	tagged	visualized	TAP visualized	3380	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4132	YKL056C		tagged	visualized	TAP visualized	27800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2602	YKL060C	FBA1	tagged	visualized	TAP visualized	1020000	358000.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4249	YKL067W	YNK1	tagged	visualized	TAP visualized	7130	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4029	YKL069W		tagged	visualized	TAP visualized	2610	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1546	YKL074C	MUD2	tagged	visualized	TAP visualized	4170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2003	YKL075C		tagged	visualized	TAP visualized	98.9	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1031	YKL079W	SMY1	tagged	visualized	TAP visualized	1920	NA	ambiguous,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	T		
+1584	YKL081W	TEF4	tagged	visualized	TAP visualized	102000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4538	YKL086W		tagged	visualized	TAP visualized	538	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1357	YKL088W		tagged	visualized	TAP visualized	2940	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2980	YKL091C		tagged	visualized	TAP visualized	2870	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+271	YKL092C	BUD2	tagged	visualized	TAP visualized	1230	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+1614	YKL103C	LAP4	tagged	visualized	TAP visualized	5730	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2949	YKL110C	KTI12	tagged	visualized	TAP visualized	5260	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1595	YKL116C	PRR1	tagged	visualized	TAP visualized	1510	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3727	YKL117W	SBA1	tagged	visualized	TAP visualized	33700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+956	YKL126W	YPK1	tagged	visualized	TAP visualized	2950	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1362	YKL127W	PGM1	tagged	visualized	TAP visualized	9820	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3100	YKL128C	PMU1	tagged	visualized	TAP visualized	3250	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+166	YKL129C	MYO3	tagged	visualized	TAP visualized	155	NA	cytoplasm,actin	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	T	F	F	F	F	F		
+3493	YKL130C	SHE2	tagged	visualized	TAP visualized	4070	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1538	YKL139W	CTK1	tagged	visualized	TAP visualized	125	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3702	YKL142W	MRP8	tagged	visualized	TAP visualized	1550	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1912	YKL143W	LTV1	tagged	visualized	TAP visualized	589	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2277	YKL149C	DBR1	tagged	visualized	TAP visualized	1130	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2779	YKL151C		tagged	visualized	TAP visualized	3870	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3483	YKL152C	GPM1	tagged	visualized	TAP visualized	172000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3881	YKL156W	RPS27A	tagged	visualized	TAP visualized	43300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+316	YKL157W	APE2	tagged	visualized	TAP visualized	2910	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2738	YKL164C	PIR1	tagged	visualized	TAP visualized	1170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5820	YKL166C	TPK3	tagged	visualized	TAP visualized	1590	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+809	YKL168C	KKQ8	tagged	visualized	TAP visualized	981	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2156	YKL181W	PRS1	tagged	visualized	TAP visualized	11700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+25	YKL182W	FAS1	tagged	visualized	TAP visualized	91800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3017	YKL183W	LOT5	tagged	visualized	TAP visualized	5930	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1890	YKL184W	SPE1	tagged	visualized	TAP visualized	688	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2317	YKL189W	HYM1	tagged	visualized	TAP visualized	1280	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1514	YKL191W	DPH2	tagged	visualized	TAP visualized	3490	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2769	YKL193C	SDS22	tagged	visualized	TAP visualized	3870	254.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1111	YKL204W	EAP1	tagged	visualized	TAP visualized	3240	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3334	YKL206C		tagged	visualized	TAP visualized	2940	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+355	YKL210W	UBA1	tagged	visualized	TAP visualized	17700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1785	YKL211C	TRP3	tagged	visualized	TAP visualized	13400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+847	YKL213C	DOA1	tagged	visualized	TAP visualized	6800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3838	YKL214C	YRA2	tagged	visualized	TAP visualized	1310	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+156	YKL215C		tagged	visualized	TAP visualized	3180	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2942	YKL216W	URA1	tagged	visualized	TAP visualized	264000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5458	YKR001C	VPS1	tagged	visualized	TAP visualized	5960	NA	cytoplasm,punctate composite,endosome	F	F	F	F	F	T	F	F	F	T	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6064	YKR014C	YPT52	tagged	visualized	TAP visualized	9380	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+829	YKR018C		tagged	visualized	TAP visualized	1770	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+463	YKR021W		tagged	visualized	TAP visualized	414	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2883	YKR022C		tagged	visualized	TAP visualized	892	NA	ER,cytoplasm,nucleus	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1527	YKR023W		tagged	visualized	TAP visualized	1710	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5969	YKR026C	GCN3	tagged	visualized	TAP visualized	8970	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+54	YKR031C	SPO14	tagged	visualized	TAP visualized	49.2	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2190	YKR038C	KAE1	tagged	visualized	TAP visualized	1270	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3461	YKR041W		tagged	visualized	TAP visualized	217	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3304	YKR043C		tagged	visualized	TAP visualized	11500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2048	YKR044W	UIP5	tagged	visualized	TAP visualized	319	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2210	YKR048C	NAP1	tagged	visualized	TAP visualized	8070	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2	YKR054C	DYN1	tagged	visualized	TAP visualized	195	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3927	YKR057W	RPS21A	tagged	visualized	TAP visualized	27400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2339	YKR059W	TIF1	tagged	visualized	TAP visualized	106000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+546	YKR064W		tagged	visualized	TAP visualized	149	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2671	YKR071C	DRE2	tagged	visualized	TAP visualized	1050	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1397	YKR072C	SIS2	tagged	visualized	TAP visualized	3750	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4235	YKR074W		tagged	visualized	TAP visualized	1230	NA	ambiguous,cytoplasm,nucleus	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3008	YKR075C		tagged	visualized	TAP visualized	1960	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2512	YKR076W	ECM4	tagged	visualized	TAP visualized	1670	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2571	YKR077W		tagged	visualized	TAP visualized	861	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1289	YKR078W		tagged	visualized	TAP visualized	1270	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+591	YKR079C		tagged	visualized	TAP visualized	2710	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2900	YKR080W	MTD1	tagged	visualized	TAP visualized	16200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1188	YKR084C	HBS1	tagged	visualized	TAP visualized	2750	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+310	YKR086W	PRP16	tagged	visualized	TAP visualized	1250	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+873	YKR090W	PXL1	tagged	visualized	TAP visualized	1310	NA	ambiguous,bud neck,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+3453	YKR094C	RPL40B	tagged	visualized	TAP visualized	28200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+205	YKR096W		tagged	visualized	TAP visualized	195	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1001	YLL007C		tagged	visualized	TAP visualized	486	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+526	YLL013C	PUF3	tagged	visualized	TAP visualized	846	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5066	YLL018C-A	COX19	tagged	visualized	TAP visualized	5750	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1089	YLL024C	SSA2	tagged	visualized	TAP visualized	364000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+472	YLL026W	HSP104	tagged	visualized	TAP visualized	32800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+779	YLL029W		tagged	visualized	TAP visualized	3240	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+617	YLL032C		tagged	visualized	TAP visualized	922	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5215	YLL040C	VPS13	tagged	visualized	TAP visualized	125	NA	cytoplasm,endosome	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3409	YLL045C	RPL8B	tagged	visualized	TAP visualized	80200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+727	YLL054C		tagged	visualized	TAP visualized	339	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2871	YLL062C	MHT1	tagged	visualized	TAP visualized	606	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+859	YLR006C	SSK1	tagged	visualized	TAP visualized	1200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3949	YLR011W	LOT6	tagged	visualized	TAP visualized	1270	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3822	YLR016C		tagged	visualized	TAP visualized	1470	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2780	YLR017W	MEU1	tagged	visualized	TAP visualized	4820	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3463	YLR022C		tagged	visualized	TAP visualized	5060	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+38	YLR024C	UBR2	tagged	visualized	TAP visualized	49.2	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1252	YLR028C	ADE16	tagged	visualized	TAP visualized	7700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+223	YLR032W	RAD5	tagged	visualized	TAP visualized	1520	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+906	YLR035C	MLH2	tagged	visualized	TAP visualized	71.6	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5118	YLR038C	COX12	tagged	visualized	TAP visualized	1390	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6210	YLR043C	TRX1	tagged	visualized	TAP visualized	8580	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1392	YLR044C	PDC1	tagged	visualized	TAP visualized	8970	NA	ambiguous,cytoplasm,nucleus	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2500	YLR048W	RPS0B	tagged	visualized	TAP visualized	60900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1869	YLR058C	SHM2	tagged	visualized	TAP visualized	67600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1237	YLR060W	FRS1	tagged	visualized	TAP visualized	5440	1190.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3454	YLR061W	RPL22A	tagged	visualized	TAP visualized	60400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3198	YLR079W	SIC1	tagged	visualized	TAP visualized	768	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2373	YLR082C	SRL2	tagged	visualized	TAP visualized	538	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2068	YLR085C	ARP6	tagged	visualized	TAP visualized	238	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1684	YLR094C	GIS3	tagged	visualized	TAP visualized	1050	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1053	YLR098C	CHA4	tagged	visualized	TAP visualized	396	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1	YLR106C	MDN1	tagged	visualized	TAP visualized	538	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4058	YLR109W	AHP1	tagged	visualized	TAP visualized	16200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2092	YLR113W	HOG1	tagged	visualized	TAP visualized	6780	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+742	YLR114C	EFR4	tagged	visualized	TAP visualized	7500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3642	YLR118C		tagged	visualized	TAP visualized	1480	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3448	YLR126C		tagged	visualized	TAP visualized	1510	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+565	YLR127C	APC2	tagged	visualized	TAP visualized	432	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+436	YLR129W	DIP2	tagged	visualized	TAP visualized	9620	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+725	YLR131C	ACE2	tagged	visualized	TAP visualized	538	NA	cytoplasm,nucleus,bud	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	T		
+3154	YLR132C		tagged	visualized	TAP visualized	486	NA	cytoplasm,mitochondrion,nucleus	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1304	YLR133W	CKI1	tagged	visualized	TAP visualized	3930	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1393	YLR134W	PDC5	tagged	visualized	TAP visualized	471000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+783	YLR135W	SLX4	tagged	visualized	TAP visualized	274	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+945	YLR143W		tagged	visualized	TAP visualized	2270	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+710	YLR144C	ACF2	tagged	visualized	TAP visualized	1420	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3856	YLR145W		tagged	visualized	TAP visualized	556	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3059	YLR146C	SPE4	tagged	visualized	TAP visualized	3870	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3288	YLR150W	STM1	tagged	visualized	TAP visualized	46800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4839	YLR154C	RNH203	tagged	visualized	TAP visualized	556	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3060	YLR172C	DPH5	tagged	visualized	TAP visualized	13500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1127	YLR177W		tagged	visualized	TAP visualized	1550	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3703	YLR178C	TFS1	tagged	visualized	TAP visualized	1030	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3857	YLR179C		tagged	visualized	TAP visualized	6230	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2427	YLR180W	SAM1	tagged	visualized	TAP visualized	103000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1759	YLR183C	TOS4	tagged	visualized	TAP visualized	284	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3792	YLR185W	RPL37A	tagged	visualized	TAP visualized	21800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+202	YLR189C	UGT51	tagged	visualized	TAP visualized	396	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3351	YLR192C	HCR1	tagged	visualized	TAP visualized	17900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1330	YLR196W	PWP1	tagged	visualized	TAP visualized	43800	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+3694	YLR199C		tagged	visualized	TAP visualized	1350	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4770	YLR200W	YKE2	tagged	visualized	TAP visualized	784	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2594	YLR215C	CDC123	tagged	visualized	TAP visualized	4850	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2502	YLR216C	CPR6	tagged	visualized	TAP visualized	18600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4276	YLR218C		tagged	visualized	TAP visualized	907	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2265	YLR225C		tagged	visualized	TAP visualized	3990	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+636	YLR228C	ECM22	tagged	visualized	TAP visualized	78.6	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1981	YLR231C	BNA5	tagged	visualized	TAP visualized	3060	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1032	YLR234W	TOP3	tagged	visualized	TAP visualized	468	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2396	YLR244C	MAP1	tagged	visualized	TAP visualized	19600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4366	YLR245C	CDD1	tagged	visualized	TAP visualized	3120	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1194	YLR248W	RCK2	tagged	visualized	TAP visualized	1790	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+332	YLR249W	YEF3	tagged	visualized	TAP visualized	871000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3963	YLR254C		tagged	visualized	TAP visualized	1540	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2891	YLR257W		tagged	visualized	TAP visualized	18600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+879	YLR258W	GSY2	tagged	visualized	TAP visualized	14600	NA	cytoplasm,nucleus,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5165	YLR262C-A		tagged	visualized	TAP visualized	3100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5159	YLR264W	RPS28B	tagged	visualized	TAP visualized	8600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2726	YLR265C	NEJ1	tagged	visualized	TAP visualized	377	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2660	YLR270W	DCS1	tagged	visualized	TAP visualized	9920	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3278	YLR271W		tagged	visualized	TAP visualized	1470	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+216	YLR272C	YCS4	tagged	visualized	TAP visualized	2540	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+3373	YLR285W	NNT1	tagged	visualized	TAP visualized	7280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2625	YLR287C	RPS30A	tagged	visualized	TAP visualized	9100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3798	YLR287C-A	RPS30A	tagged	visualized	TAP visualized	37600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2435	YLR291C	GCD7	tagged	visualized	TAP visualized	6650	951.0	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3512	YLR301W		tagged	visualized	TAP visualized	15400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5352	YLR309C	IMH1	tagged	visualized	TAP visualized	2350	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5240	YLR310C	CDC25	tagged	visualized	TAP visualized	319	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2565	YLR316C	TAD3	tagged	visualized	TAP visualized	892	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+694	YLR319C	BUD6	tagged	visualized	TAP visualized	2610	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+5126	YLR325C	RPL38	tagged	visualized	TAP visualized	50200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5102	YLR327C		tagged	visualized	TAP visualized	504	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2299	YLR328W	NMA1	tagged	visualized	TAP visualized	5130	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4880	YLR333C	RPS25B	tagged	visualized	TAP visualized	162000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1643	YLR345W		tagged	visualized	TAP visualized	3380	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+550	YLR347C	KAP95	tagged	visualized	TAP visualized	51700	1810.0	cytoplasm,nuclear periphery,punctate composite	F	F	F	F	F	T	F	F	T	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3144	YLR351C	NIT3	tagged	visualized	TAP visualized	4510	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+845	YLR362W	STE11	tagged	visualized	TAP visualized	736	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3709	YLR363C	NMD4	tagged	visualized	TAP visualized	6090	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4856	YLR364W		tagged	visualized	TAP visualized	573	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3522	YLR376C	PSY3	tagged	visualized	TAP visualized	876	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+264	YLR383W	RHC18	tagged	visualized	TAP visualized	339	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+140	YLR384C	IKI3	tagged	visualized	TAP visualized	10500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2123	YLR387C		tagged	visualized	TAP visualized	2240	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5180	YLR388W	RPS29A	tagged	visualized	TAP visualized	6490	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1596	YLR392C		tagged	visualized	TAP visualized	736	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+706	YLR397C	AFG2	tagged	visualized	TAP visualized	799	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+155	YLR398C	SKI2	tagged	visualized	TAP visualized	5770	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1197	YLR401C	DUS3	tagged	visualized	TAP visualized	3630	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+952	YLR403W	SFP1	tagged	visualized	TAP visualized	259	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3632	YLR406C	RPL31B	tagged	visualized	TAP visualized	57500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+235	YLR410W	VIP1	tagged	visualized	TAP visualized	8810	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3279	YLR412W		tagged	visualized	TAP visualized	6490	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3359	YLR414C		tagged	visualized	TAP visualized	1660	NA	ambiguous,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	T		
+1377	YLR417W	VPS36	tagged	visualized	TAP visualized	2470	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+108	YLR419W		tagged	visualized	TAP visualized	195	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2562	YLR420W	URA4	tagged	visualized	TAP visualized	12700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4221	YLR421C	RPN13	tagged	visualized	TAP visualized	12200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+30	YLR422W		tagged	visualized	TAP visualized	238	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+869	YLR424W		tagged	visualized	TAP visualized	556	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+986	YLR427W	MAG2	tagged	visualized	TAP visualized	922	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1575	YLR432W	IMD3	tagged	visualized	TAP visualized	26300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3469	YLR435W	TSR2	tagged	visualized	TAP visualized	13400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+163	YLR436C	ECM30	tagged	visualized	TAP visualized	1080	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5092	YLR438C-A	LSM3	tagged	visualized	TAP visualized	7060	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2171	YLR438W	CAR2	tagged	visualized	TAP visualized	72000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3415	YLR441C	RPS1A	tagged	visualized	TAP visualized	92400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3030	YLR448W	RPL6B	tagged	visualized	TAP visualized	38400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+903	YLR452C	SST2	tagged	visualized	TAP visualized	5980	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2342	YLR453C	RIF2	tagged	visualized	TAP visualized	589	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+6113	YML001W	YPT7	tagged	visualized	TAP visualized	5530	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2855	YML004C	GLO1	tagged	visualized	TAP visualized	2570	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1918	YML005W		tagged	visualized	TAP visualized	656	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+718	YML006C	GIS4	tagged	visualized	TAP visualized	222	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1047	YML007W	YAP1	tagged	visualized	TAP visualized	1620	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3240	YML014W	TRM9	tagged	visualized	TAP visualized	2360	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+918	YML016C	PPZ1	tagged	visualized	TAP visualized	217	NA	cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1320	YML017W	PSP2	tagged	visualized	TAP visualized	2190	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2603	YML021C	UNG1	tagged	visualized	TAP visualized	4820	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3978	YML022W	APT1	tagged	visualized	TAP visualized	11200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3320	YML024W	RPS17A	tagged	visualized	TAP visualized	30900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3232	YML026C	RPS18B	tagged	visualized	TAP visualized	112000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2411	YML027W	YOX1	tagged	visualized	TAP visualized	861	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3918	YML028W	TSA1	tagged	visualized	TAP visualized	378000	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+647	YML035C	AMD1	tagged	visualized	TAP visualized	3910	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2093	YML051W	GAL80	tagged	visualized	TAP visualized	784	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3760	YML053C		tagged	visualized	TAP visualized	656	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1019	YML056C	IMD4	tagged	visualized	TAP visualized	2970	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1214	YML057W	CMP2	tagged	visualized	TAP visualized	7110	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4962	YML058W	SML1	tagged	visualized	TAP visualized	18800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3416	YML063W	RPS1B	tagged	visualized	TAP visualized	107000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1294	YML070W	DAK1	tagged	visualized	TAP visualized	23600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2939	YML073C	RPL6A	tagged	visualized	TAP visualized	37100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1052	YML082W		tagged	visualized	TAP visualized	2810	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1779	YML085C	TUB1	tagged	visualized	TAP visualized	5590	NA	cytoplasm,punctate composite,spindle pole,microtubule	F	F	F	T	F	T	F	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F		
+995	YML088W	UFO1	tagged	visualized	TAP visualized	639	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3952	YML094W	GIM5	tagged	visualized	TAP visualized	2900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1560	YML096W		tagged	visualized	TAP visualized	3750	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1996	YML097C	VPS9	tagged	visualized	TAP visualized	4280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4137	YML098W	TAF13	tagged	visualized	TAP visualized	2080	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+278	YML100W	TSL1	tagged	visualized	TAP visualized	1960	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3648	YML106W	URA5	tagged	visualized	TAP visualized	39300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4940	YML108W		tagged	visualized	TAP visualized	2610	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+438	YML109W	ZDS2	tagged	visualized	TAP visualized	105	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+459	YML111W	BUL2	tagged	visualized	TAP visualized	339	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3089	YML112W	CTK3	tagged	visualized	TAP visualized	2640	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+242	YML117W	NAB6	tagged	visualized	TAP visualized	1540	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1479	YML124C	TUB3	tagged	visualized	TAP visualized	12300	NA	cytoplasm,nucleus,spindle pole	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4222	YMR002W		tagged	visualized	TAP visualized	6960	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+160	YMR012W	CLU1	tagged	visualized	TAP visualized	17000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2212	YMR021C	MAC1	tagged	visualized	TAP visualized	14800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1552	YMR023C	MSS1	tagged	visualized	TAP visualized	768	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1860	YMR027W	HRT2	tagged	visualized	TAP visualized	6190	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1576	YMR029C	FAR8	tagged	visualized	TAP visualized	4010	NA	ER,ambiguous,cytoplasm	T	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+887	YMR037C	MSN2	tagged	visualized	TAP visualized	125	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3470	YMR038C	LYS7	tagged	visualized	TAP visualized	12000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2216	YMR067C		tagged	visualized	TAP visualized	3570	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3859	YMR073C		tagged	visualized	TAP visualized	450	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4334	YMR074C		tagged	visualized	TAP visualized	2550	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5879	YMR079W	SEC14	tagged	visualized	TAP visualized	84300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+396	YMR080C	NAM7	tagged	visualized	TAP visualized	6090	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3643	YMR090W		tagged	visualized	TAP visualized	704	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3082	YMR099C		tagged	visualized	TAP visualized	8580	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+969	YMR104C	YPK2	tagged	visualized	TAP visualized	1310	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1366	YMR105C	PGM2	tagged	visualized	TAP visualized	3790	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2158	YMR113W	FOL3	tagged	visualized	TAP visualized	2340	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1249	YMR120C	ADE17	tagged	visualized	TAP visualized	60900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5114	YMR122W-A		tagged	visualized	TAP visualized	49500	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+437	YMR124W		tagged	visualized	TAP visualized	166	NA	ambiguous,bud neck,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+3789	YMR132C		tagged	visualized	TAP visualized	3060	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1965	YMR135C	GID8	tagged	visualized	TAP visualized	639	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1014	YMR137C	PSO2	tagged	visualized	TAP visualized	259	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3950	YMR138W	CIN4	tagged	visualized	TAP visualized	468	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2513	YMR139W	RIM11	tagged	visualized	TAP visualized	6990	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1760	YMR140W	SIP5	tagged	visualized	TAP visualized	556	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2804	YMR142C	RPL13B	tagged	visualized	TAP visualized	54200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2868	YMR143W	RPS16A	tagged	visualized	TAP visualized	33800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+548	YMR165C	SMP2	tagged	visualized	TAP visualized	3910	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+728	YMR167W	MLH1	tagged	visualized	TAP visualized	319	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1659	YMR169C	ALD3	tagged	visualized	TAP visualized	172	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1660	YMR170C	ALD2	tagged	visualized	TAP visualized	2070	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5124	YMR175W	SIP18	tagged	visualized	TAP visualized	2300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3280	YMR178W		tagged	visualized	TAP visualized	3890	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3893	YMR184W		tagged	visualized	TAP visualized	1270	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+882	YMR186W	HSC82	tagged	visualized	TAP visualized	132000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+840	YMR192W	APP2	tagged	visualized	TAP visualized	2010	NA	ambiguous,bud neck,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+3421	YMR194W	RPL36A	tagged	visualized	TAP visualized	31600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+288	YMR196W		tagged	visualized	TAP visualized	2220	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1473	YMR199W	CLN1	tagged	visualized	TAP visualized	319	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2319	YMR201C	RAD14	tagged	visualized	TAP visualized	1030	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+412	YMR205C	PFK2	tagged	visualized	TAP visualized	90200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2049	YMR208W	ERG12	tagged	visualized	TAP visualized	3300	281.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1256	YMR213W	CEF1	tagged	visualized	TAP visualized	784	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1565	YMR215W	GAS3	tagged	visualized	TAP visualized	16400	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+796	YMR216C	SKY1	tagged	visualized	TAP visualized	2420	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1997	YMR220W	ERG8	tagged	visualized	TAP visualized	79.7	10.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3672	YMR222C	FSH2	tagged	visualized	TAP visualized	1070	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+919	YMR224C	MRE11	tagged	visualized	TAP visualized	432	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3335	YMR226C		tagged	visualized	TAP visualized	3210	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1257	YMR227C	TAF7	tagged	visualized	TAP visualized	1050	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3526	YMR230W	RPS10B	tagged	visualized	TAP visualized	7650	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3649	YMR233W	TRI1	tagged	visualized	TAP visualized	2360	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+2673	YMR234W	RNH1	tagged	visualized	TAP visualized	149	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2266	YMR235C	RNA1	tagged	visualized	TAP visualized	52200	11200.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4030	YMR242C	RPL20A	tagged	visualized	TAP visualized	54300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4963	YMR244C-A		tagged	visualized	TAP visualized	721	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1290	YMR250W	GAD1	tagged	visualized	TAP visualized	1200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3967	YMR255W	GFD1	tagged	visualized	TAP visualized	2730	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1442	YMR258C		tagged	visualized	TAP visualized	3080	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+115	YMR259C		tagged	visualized	TAP visualized	7110	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4251	YMR260C	TIF11	tagged	visualized	TAP visualized	35100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+324	YMR261C	TPS3	tagged	visualized	TAP visualized	13500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6124	YMR264W	CUE1	tagged	visualized	TAP visualized	589	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2041	YMR268C	PRP24	tagged	visualized	TAP visualized	672	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3644	YMR271C	URA10	tagged	visualized	TAP visualized	815	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5351	YMR273C	ZDS1	tagged	visualized	TAP visualized	279	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+390	YMR275C	BUL1	tagged	visualized	TAP visualized	486	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2492	YMR276W	DSK2	tagged	visualized	TAP visualized	3930	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1151	YMR278W		tagged	visualized	TAP visualized	4960	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1626	YMR283C	RIT1	tagged	visualized	TAP visualized	259	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1222	YMR284W	YKU70	tagged	visualized	TAP visualized	892	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1610	YMR285C	NGL2	tagged	visualized	TAP visualized	3570	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+397	YMR288W	HSH155	tagged	visualized	TAP visualized	521	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2485	YMR289W	ABZ2	tagged	visualized	TAP visualized	768	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1281	YMR291W		tagged	visualized	TAP visualized	10200	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2966	YMR299C		tagged	visualized	TAP visualized	1170	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1641	YMR300C	ADE4	tagged	visualized	TAP visualized	18700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2674	YMR303C	ADH2	tagged	visualized	TAP visualized	1620	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+184	YMR304W	UBP15	tagged	visualized	TAP visualized	2810	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+287	YMR308C	PSE1	tagged	visualized	TAP visualized	15500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+638	YMR309C	NIP1	tagged	visualized	TAP visualized	78900	6150.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3637	YMR311C	GLC8	tagged	visualized	TAP visualized	3440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3596	YMR314W	PRE5	tagged	visualized	TAP visualized	7210	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2666	YMR315W		tagged	visualized	TAP visualized	9600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2595	YMR318C	ADH6	tagged	visualized	TAP visualized	21700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2402	YNL001W	DOM34	tagged	visualized	TAP visualized	1720	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2647	YNL007C	SIS1	tagged	visualized	TAP visualized	20300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3534	YNL010W		tagged	visualized	TAP visualized	12600	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1983	YNL016W	PUB1	tagged	visualized	TAP visualized	49600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1752	YNL022C		tagged	visualized	TAP visualized	922	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+3494	YNL024C		tagged	visualized	TAP visualized	1760	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+967	YNL027W	CRZ1	tagged	visualized	TAP visualized	1160	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3221	YNL032W	SIW14	tagged	visualized	TAP visualized	4070	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3689	YNL036W	NCE103	tagged	visualized	TAP visualized	2330	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1955	YNL040W		tagged	visualized	TAP visualized	1470	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+983	YNL045W		tagged	visualized	TAP visualized	5590	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1761	YNL053W	MSG5	tagged	visualized	TAP visualized	538	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3906	YNL056W		tagged	visualized	TAP visualized	4530	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+762	YNL059C	ARP5	tagged	visualized	TAP visualized	2170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5807	YNL064C	YDJ1	tagged	visualized	TAP visualized	119000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3951	YNL067W	RPL9B	tagged	visualized	TAP visualized	76000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3010	YNL072W	RNH35	tagged	visualized	TAP visualized	623	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1539	YNL077W	APJ1	tagged	visualized	TAP visualized	125	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+477	YNL082W	PMS1	tagged	visualized	TAP visualized	521	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+609	YNL085W	MKT1	tagged	visualized	TAP visualized	3430	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6133	YNL090W	RHO2	tagged	visualized	TAP visualized	3870	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+176	YNL091W	NST1	tagged	visualized	TAP visualized	217	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1274	YNL094W	APP1	tagged	visualized	TAP visualized	2290	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3025	YNL096C	RPS7B	tagged	visualized	TAP visualized	43500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5923	YNL098C	RAS2	tagged	visualized	TAP visualized	19800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3563	YNL099C	OCA1	tagged	visualized	TAP visualized	2310	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1164	YNL104C	LEU4	tagged	visualized	TAP visualized	6630	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3650	YNL107W	YAF9	tagged	visualized	TAP visualized	259	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3310	YNL108C		tagged	visualized	TAP visualized	1950	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+525	YNL112W	DBP2	tagged	visualized	TAP visualized	33100	8470.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1581	YNL116W		tagged	visualized	TAP visualized	1750	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1730	YNL119W		tagged	visualized	TAP visualized	2860	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3541	YNL129W		tagged	visualized	TAP visualized	1460	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2470	YNL134C		tagged	visualized	TAP visualized	3490	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4772	YNL135C	FPR1	tagged	visualized	TAP visualized	43300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2684	YNL141W	AAH1	tagged	visualized	TAP visualized	20700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4498	YNL143C		tagged	visualized	TAP visualized	238	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4312	YNL147W	LSM7	tagged	visualized	TAP visualized	3070	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4516	YNL153C	GIM3	tagged	visualized	TAP visualized	7470	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5644	YNL154C	YCK2	tagged	visualized	TAP visualized	6160	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3281	YNL155W		tagged	visualized	TAP visualized	4280	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+760	YNL161W	CBK1	tagged	visualized	TAP visualized	450	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+3258	YNL162W	RPL42A	tagged	visualized	TAP visualized	13600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5148	YNL162W-A		tagged	visualized	TAP visualized	396	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+267	YNL163C	RIA1	tagged	visualized	TAP visualized	7770	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1058	YNL167C	SKO1	tagged	visualized	TAP visualized	504	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+49	YNL172W	APC1	tagged	visualized	TAP visualized	178	NA	cytoplasm,nucleus,spindle pole	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5909	YNL180C	RHO5	tagged	visualized	TAP visualized	2180	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+689	YNL183C	NPR1	tagged	visualized	TAP visualized	284	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1490	YNL189W	SRP1	tagged	visualized	TAP visualized	2790	35.0	cytoplasm,nuclear periphery	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2615	YNL191W		tagged	visualized	TAP visualized	7300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1015	YNL197C	WHI3	tagged	visualized	TAP visualized	5730	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3495	YNL200C		tagged	visualized	TAP visualized	1380	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2168	YNL207W	RIO2	tagged	visualized	TAP visualized	10300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1178	YNL209W	SSB2	tagged	visualized	TAP visualized	104000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5411	YNL212W	VID27	tagged	visualized	TAP visualized	3500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1275	YNL218W	MGS1	tagged	visualized	TAP visualized	1180	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2116	YNL220W	ADE12	tagged	visualized	TAP visualized	56800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+534	YNL221C	POP1	tagged	visualized	TAP visualized	846	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1661	YNL223W	AUT2	tagged	visualized	TAP visualized	3300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+733	YNL224C		tagged	visualized	TAP visualized	1440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1258	YNL227C		tagged	visualized	TAP visualized	2310	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2633	YNL229C	URE2	tagged	visualized	TAP visualized	7060	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3135	YNL232W	CSL4	tagged	visualized	TAP visualized	5550	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+2163	YNL234W		tagged	visualized	TAP visualized	195	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1796	YNL239W	LAP3	tagged	visualized	TAP visualized	521	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1669	YNL241C	ZWF1	tagged	visualized	TAP visualized	15000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+734	YNL247W		tagged	visualized	TAP visualized	23000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+150	YNL250W	RAD50	tagged	visualized	TAP visualized	830	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2300	YNL254C		tagged	visualized	TAP visualized	799	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4252	YNL255C	GIS2	tagged	visualized	TAP visualized	96700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+543	YNL256W	FOL1	tagged	visualized	TAP visualized	4590	708.0	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+16	YNL262W	POL2	tagged	visualized	TAP visualized	1970	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2661	YNL264C	PDR17	tagged	visualized	TAP visualized	5040	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+314	YNL267W	PIK1	tagged	visualized	TAP visualized	1600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+28	YNL271C	BNI1	tagged	visualized	TAP visualized	166	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+5426	YNL272C	SEC2	tagged	visualized	TAP visualized	13200	1310.0	ambiguous,bud neck,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+2662	YNL274C		tagged	visualized	TAP visualized	3280	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1776	YNL277W	MET2	tagged	visualized	TAP visualized	2240	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+319	YNL278W	CAF120	tagged	visualized	TAP visualized	1380	NA	bud neck,cytoplasm,cell periphery,bud	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+4253	YNL281W	HCH1	tagged	visualized	TAP visualized	8530	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2494	YNL288W	CAF40	tagged	visualized	TAP visualized	18800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2293	YNL292W	PUS4	tagged	visualized	TAP visualized	3990	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2820	YNL301C	RPL18B	tagged	visualized	TAP visualized	63700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2840	YNL302C	RPS19B	tagged	visualized	TAP visualized	3440	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2627	YNL304W	YPT11	tagged	visualized	TAP visualized	2850	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2480	YNL307C	MCK1	tagged	visualized	TAP visualized	396	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1254	YNL308C	KRI1	tagged	visualized	TAP visualized	1780	NA	cytoplasm,nucleolus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F		
+1936	YNL309W	STB1	tagged	visualized	TAP visualized	319	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+744	YNL311C		tagged	visualized	TAP visualized	432	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+478	YNL313C		tagged	visualized	TAP visualized	8070	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2530	YNL316C	PHA2	tagged	visualized	TAP visualized	2020	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2117	YNL330C	RPD3	tagged	visualized	TAP visualized	3850	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2983	YNR007C	AUT1	tagged	visualized	TAP visualized	3610	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3471	YNR009W		tagged	visualized	TAP visualized	2880	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+532	YNR011C	PRP2	tagged	visualized	TAP visualized	172	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3762	YNR014W		tagged	visualized	TAP visualized	2360	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2417	YNR015W	SMM1	tagged	visualized	TAP visualized	2650	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+14	YNR016C	ACC1	tagged	visualized	TAP visualized	20200	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2926	YNR027W	BUD17	tagged	visualized	TAP visualized	6580	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2142	YNR029C		tagged	visualized	TAP visualized	1560	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+72	YNR031C	SSK2	tagged	visualized	TAP visualized	217	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2531	YNR032W	PPG1	tagged	visualized	TAP visualized	1960	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+697	YNR033W	ABZ1	tagged	visualized	TAP visualized	1550	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2892	YNR034W	SOL1	tagged	visualized	TAP visualized	1970	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5067	YNR034W-A		tagged	visualized	TAP visualized	2820	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2334	YNR043W	MVD1	tagged	visualized	TAP visualized	13700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4434	YNR046W		tagged	visualized	TAP visualized	4800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+500	YNR047W		tagged	visualized	TAP visualized	752	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6109	YNR049C	MSO1	tagged	visualized	TAP visualized	1380	NA	ambiguous,bud neck,cytoplasm,bud	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+2026	YNR050C	LYS9	tagged	visualized	TAP visualized	57500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1611	YNR051C	BRE5	tagged	visualized	TAP visualized	11700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2118	YNR052C	POP2	tagged	visualized	TAP visualized	1520	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2933	YNR054C		tagged	visualized	TAP visualized	12800	NA	cytoplasm,nucleolus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F		
+2020	YOL016C	CMK2	tagged	visualized	TAP visualized	7500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+852	YOL017W	ESC8	tagged	visualized	TAP visualized	432	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+373	YOL021C	DIS3	tagged	visualized	TAP visualized	606	NA	cytoplasm,nucleolus,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	T	F		
+2259	YOL022C		tagged	visualized	TAP visualized	125	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3496	YOL032W		tagged	visualized	TAP visualized	1910	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+283	YOL034W	SMC5	tagged	visualized	TAP visualized	892	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3430	YOL038W	PRE6	tagged	visualized	TAP visualized	16800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4920	YOL039W	RPP2A	tagged	visualized	TAP visualized	428000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+274	YOL045W	PSK2	tagged	visualized	TAP visualized	2220	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1745	YOL049W	GSH2	tagged	visualized	TAP visualized	3430	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2335	YOL052C	SPE2	tagged	visualized	TAP visualized	7060	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5170	YOL052C-A	DDR2	tagged	visualized	TAP visualized	784	NA	cytoplasm,vacuole	F	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3041	YOL056W	GPM3	tagged	visualized	TAP visualized	3730	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+860	YOL057W		tagged	visualized	TAP visualized	3260	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2198	YOL058W	ARG1	tagged	visualized	TAP visualized	1870	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2065	YOL059W	GPD2	tagged	visualized	TAP visualized	8970	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1715	YOL061W	PRS5	tagged	visualized	TAP visualized	3310	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2616	YOL064C	MET22	tagged	visualized	TAP visualized	7330	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1255	YOL066C	RIB2	tagged	visualized	TAP visualized	1540	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4054	YOL067C	RTG1	tagged	visualized	TAP visualized	2190	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1679	YOL068C	HST1	tagged	visualized	TAP visualized	1440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1692	YOL070C		tagged	visualized	TAP visualized	1620	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+677	YOL076W	MDM20	tagged	visualized	TAP visualized	5800	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+262	YOL087C		tagged	visualized	TAP visualized	589	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+349	YOL089C	HAL9	tagged	visualized	TAP visualized	238	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3125	YOL093W	TRM10	tagged	visualized	TAP visualized	4090	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2125	YOL097C	WRS1	tagged	visualized	TAP visualized	12100	2170.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+341	YOL098C		tagged	visualized	TAP visualized	8120	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3630	YOL102C	TPT1	tagged	visualized	TAP visualized	672	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4269	YOL108C	INO4	tagged	visualized	TAP visualized	521	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3763	YOL111C		tagged	visualized	TAP visualized	6510	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1066	YOL117W	RRI2	tagged	visualized	TAP visualized	1320	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3282	YOL121C	RPS19A	tagged	visualized	TAP visualized	29000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2119	YOL124C		tagged	visualized	TAP visualized	2020	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1837	YOL125W		tagged	visualized	TAP visualized	1230	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3754	YOL139C	CDC33	tagged	visualized	TAP visualized	14200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+907	YOL141W	PPM2	tagged	visualized	TAP visualized	830	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4118	YOL143C	RIB4	tagged	visualized	TAP visualized	3260	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2731	YOL151W	GRE2	tagged	visualized	TAP visualized	5460	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5090	YOL159C-A		tagged	visualized	TAP visualized	125	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2953	YOR006C		tagged	visualized	TAP visualized	3610	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2694	YOR007C	SGT2	tagged	visualized	TAP visualized	9420	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5854	YOR008C	SLG1	tagged	visualized	TAP visualized	664	NA	ambiguous,bud neck,cytoplasm,vacuole,bud	T	F	T	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+759	YOR014W	RTS1	tagged	visualized	TAP visualized	300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+595	YOR018W	ROD1	tagged	visualized	TAP visualized	386	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1379	YOR023C	AHC1	tagged	visualized	TAP visualized	339	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2741	YOR026W	BUB3	tagged	visualized	TAP visualized	1430	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1265	YOR027W	STI1	tagged	visualized	TAP visualized	67600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+691	YOR035C	SHE4	tagged	visualized	TAP visualized	3410	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3393	YOR039W	CKB2	tagged	visualized	TAP visualized	7160	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1938	YOR056C	NOB1	tagged	visualized	TAP visualized	4490	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2344	YOR057W	SGT1	tagged	visualized	TAP visualized	1340	NA	cytoplasm,nucleus,bud	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	T		
+2761	YOR061W	CKA2	tagged	visualized	TAP visualized	4540	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3325	YOR062C		tagged	visualized	TAP visualized	2010	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2397	YOR063W	RPL3	tagged	visualized	TAP visualized	450	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1094	YOR070C	GYP1	tagged	visualized	TAP visualized	206	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3612	YOR077W	RTS2	tagged	visualized	TAP visualized	4590	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3105	YOR083W	WHI5	tagged	visualized	TAP visualized	1440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3485	YOR087W	YVC1	tagged	visualized	TAP visualized	1310	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6110	YOR089C	VPS21	tagged	visualized	TAP visualized	8760	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2301	YOR091W		tagged	visualized	TAP visualized	4220	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3394	YOR095C	RKI1	tagged	visualized	TAP visualized	5680	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5961	YOR101W	RAS1	tagged	visualized	TAP visualized	2050	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2095	YOR110W	TFC7	tagged	visualized	TAP visualized	2660	359.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+748	YOR112W		tagged	visualized	TAP visualized	1360	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1371	YOR118W		tagged	visualized	TAP visualized	2600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+165	YOR124C	UBP2	tagged	visualized	TAP visualized	2420	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+368	YOR127W	RGA1	tagged	visualized	TAP visualized	396	NA	bud neck,cytoplasm,cell periphery	F	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+1358	YOR128C	ADE2	tagged	visualized	TAP visualized	5410	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+501	YOR129C		tagged	visualized	TAP visualized	768	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3710	YOR131C		tagged	visualized	TAP visualized	396	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+583	YOR133W	EFT1	tagged	visualized	TAP visualized	82700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+984	YOR138C		tagged	visualized	TAP visualized	5930	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2910	YOR143C	THI80	tagged	visualized	TAP visualized	3320	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3990	YOR148C	SPP2	tagged	visualized	TAP visualized	752	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+192	YOR151C	RPB2	tagged	visualized	TAP visualized	18700	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+828	YOR156C	NFI1	tagged	visualized	TAP visualized	3170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3374	YOR157C	PUP1	tagged	visualized	TAP visualized	11400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+394	YOR160W	MTR10	tagged	visualized	TAP visualized	6340	614.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3968	YOR163W	DDP1	tagged	visualized	TAP visualized	3440	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2968	YOR164C		tagged	visualized	TAP visualized	5350	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5160	YOR167C	RPS28A	tagged	visualized	TAP visualized	94500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+652	YOR168W	GLN4	tagged	visualized	TAP visualized	37500	3580.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+698	YOR172W	YRM1	tagged	visualized	TAP visualized	125	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2329	YOR173W	DCS2	tagged	visualized	TAP visualized	1810	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3871	YOR182C	RPS30B	tagged	visualized	TAP visualized	18500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2345	YOR184W	SER1	tagged	visualized	TAP visualized	15900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6084	YOR185C	GSP2	tagged	visualized	TAP visualized	2460	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+241	YOR188W	MSB1	tagged	visualized	TAP visualized	172	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+1984	YOR197W	MCA1	tagged	visualized	TAP visualized	1400	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+777	YOR208W	PTP2	tagged	visualized	TAP visualized	149	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2143	YOR209C	NPT1	tagged	visualized	TAP visualized	32100	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5792	YOR212W	STE4	tagged	visualized	TAP visualized	2050	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3475	YOR213C	SAS5	tagged	visualized	TAP visualized	1800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3352	YOR220W		tagged	visualized	TAP visualized	967	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+172	YOR227W		tagged	visualized	TAP visualized	195	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3211	YOR234C	RPL33B	tagged	visualized	TAP visualized	65600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3771	YOR236W	DFR1	tagged	visualized	TAP visualized	1080	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3019	YOR238W		tagged	visualized	TAP visualized	892	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1124	YOR239W	ABP140	tagged	visualized	TAP visualized	17000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1469	YOR241W	MET7	tagged	visualized	TAP visualized	7080	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2202	YOR245C	DGA1	tagged	visualized	TAP visualized	907	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3033	YOR251C		tagged	visualized	TAP visualized	5770	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4059	YOR253W	NAT5	tagged	visualized	TAP visualized	2370	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3717	YOR258W	HNT3	tagged	visualized	TAP visualized	396	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1321	YOR260W	GCD1	tagged	visualized	TAP visualized	9530	1760.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2772	YOR261C	RPN8	tagged	visualized	TAP visualized	19800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2685	YOR262W		tagged	visualized	TAP visualized	9230	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4924	YOR265W	RBL2	tagged	visualized	TAP visualized	1760	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+751	YOR267C	HRK1	tagged	visualized	TAP visualized	300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2151	YOR274W	MOD5	tagged	visualized	TAP visualized	2020	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1017	YOR275C	RIM20	tagged	visualized	TAP visualized	2880	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4186	YOR276W	CAF20	tagged	visualized	TAP visualized	26900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2984	YOR279C	RFM1	tagged	visualized	TAP visualized	861	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3185	YOR281C	PLP2	tagged	visualized	TAP visualized	7700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3631	YOR283W		tagged	visualized	TAP visualized	8300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3451	YOR289W		tagged	visualized	TAP visualized	1710	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+154	YOR296W		tagged	visualized	TAP visualized	300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5177	YOR298C-A	MBF1	tagged	visualized	TAP visualized	47300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2247	YOR303W	CPA1	tagged	visualized	TAP visualized	2580	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5132	YOR304C-A		tagged	visualized	TAP visualized	656	NA	ambiguous,bud neck,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+628	YOR322C		tagged	visualized	TAP visualized	295	NA	cytoplasm,late Golgi	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F	F	F	F	F		
+1956	YOR323C	PRO2	tagged	visualized	TAP visualized	6920	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+73	YOR326W	MYO2	tagged	visualized	TAP visualized	4340	NA	ambiguous,bud neck,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+415	YOR335C	ALA1	tagged	visualized	TAP visualized	33800	5740.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+752	YOR337W	TEA1	tagged	visualized	TAP visualized	736	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2911	YOR342C		tagged	visualized	TAP visualized	1360	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3147	YOR344C	TYE7	tagged	visualized	TAP visualized	486	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+383	YOR346W	REV1	tagged	visualized	TAP visualized	521	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1662	YOR347C	PYK2	tagged	visualized	TAP visualized	2130	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2719	YOR352W		tagged	visualized	TAP visualized	3510	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+684	YOR353C	SOG2	tagged	visualized	TAP visualized	892	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1582	YOR355W	GDS1	tagged	visualized	TAP visualized	2280	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3524	YOR358W	HAP5	tagged	visualized	TAP visualized	450	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1577	YOR359W	VTS1	tagged	visualized	TAP visualized	3200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1554	YOR360C	PDE2	tagged	visualized	TAP visualized	6510	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+745	YOR361C	PRT1	tagged	visualized	TAP visualized	47500	5600.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3170	YOR362C	PRE10	tagged	visualized	TAP visualized	12000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5554	YOR370C	MRS6	tagged	visualized	TAP visualized	23800	4960.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+493	YOR371C	GPB1	tagged	visualized	TAP visualized	1640	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1438	YOR372C	NDD1	tagged	visualized	TAP visualized	799	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1970	YOR375C	GDH1	tagged	visualized	TAP visualized	77500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3158	YOR385W		tagged	visualized	TAP visualized	504	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1384	YOR386W	PHR1	tagged	visualized	TAP visualized	688	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+552	YPL008W	CHL1	tagged	visualized	TAP visualized	98.9	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+339	YPL009C		tagged	visualized	TAP visualized	7700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+187	YPL012W	RRP12	tagged	visualized	TAP visualized	8170	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2617	YPL015C	HST2	tagged	visualized	TAP visualized	5260	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1707	YPL017C		tagged	visualized	TAP visualized	6400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3535	YPL024W	NCE4	tagged	visualized	TAP visualized	1500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1686	YPL026C	SKS1	tagged	visualized	TAP visualized	2810	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1372	YPL030W		tagged	visualized	TAP visualized	7720	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2762	YPL031C	PHO85	tagged	visualized	TAP visualized	6160	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+618	YPL032C	SVL3	tagged	visualized	TAP visualized	2180	NA	ambiguous,bud neck,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+4217	YPL037C	EGD1	tagged	visualized	TAP visualized	18000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4055	YPL038W	MET31	tagged	visualized	TAP visualized	521	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+5063	YPL046C	ELC1	tagged	visualized	TAP visualized	538	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2223	YPL048W	CAM1	tagged	visualized	TAP visualized	60900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1700	YPL061W	ALD6	tagged	visualized	TAP visualized	135000	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3051	YPL064C	CWC27	tagged	visualized	TAP visualized	2360	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1821	YPL066W		tagged	visualized	TAP visualized	396	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+3897	YPL067C		tagged	visualized	TAP visualized	1470	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+766	YPL074W	YTA6	tagged	visualized	TAP visualized	259	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+342	YPL075W	GCR1	tagged	visualized	TAP visualized	259	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3055	YPL079W	RPL21B	tagged	visualized	TAP visualized	66400	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2563	YPL081W	RPS9A	tagged	visualized	TAP visualized	106000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+577	YPL084W	BRO1	tagged	visualized	TAP visualized	10200	NA	cytoplasm,endosome	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1418	YPL086C	ELP3	tagged	visualized	TAP visualized	4760	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+974	YPL089C	RLM1	tagged	visualized	TAP visualized	736	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2533	YPL090C	RPS6A	tagged	visualized	TAP visualized	66000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1797	YPL091W	GLR1	tagged	visualized	TAP visualized	7600	NA	cytoplasm,mitochondrion,nucleus	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2575	YPL096W	PNG1	tagged	visualized	TAP visualized	4850	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+572	YPL105C		tagged	visualized	TAP visualized	830	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+915	YPL106C	SSE1	tagged	visualized	TAP visualized	71700	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+194	YPL110C		tagged	visualized	TAP visualized	2300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2806	YPL111W	CAR1	tagged	visualized	TAP visualized	42800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+248	YPL115C	BEM3	tagged	visualized	TAP visualized	752	NA	bud neck,cytoplasm	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	F		
+3171	YPL117C	IDI1	tagged	visualized	TAP visualized	25500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1170	YPL119C	DBP1	tagged	visualized	TAP visualized	1480	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+5314	YPL125W	KAP120	tagged	visualized	TAP visualized	6300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2027	YPL133C	carbon	tagged	visualized	TAP visualized	799	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+162	YPL137C		tagged	visualized	TAP visualized	656	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1932	YPL139C	UME1	tagged	visualized	TAP visualized	3040	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1663	YPL140C	MKK2	tagged	visualized	TAP visualized	1950	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+541	YPL141C		tagged	visualized	TAP visualized	556	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4302	YPL144W		tagged	visualized	TAP visualized	2210	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2108	YPL145C	KES1	tagged	visualized	TAP visualized	32200	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2000	YPL151C	PRP46	tagged	visualized	TAP visualized	1770	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2606	YPL152W	RRD2	tagged	visualized	TAP visualized	2430	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+286	YPL160W	CDC60	tagged	visualized	TAP visualized	158000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1107	YPL161C	BEM4	tagged	visualized	TAP visualized	6330	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3757	YPL166W		tagged	visualized	TAP visualized	752	NA	cytoplasm,nucleus,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+6181	YPL170W	DAP1	tagged	visualized	TAP visualized	6300	NA	ER,cytoplasm	F	F	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3020	YPL177C	CUP9	tagged	visualized	TAP visualized	521	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1464	YPL179W	PPQ1	tagged	visualized	TAP visualized	319	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+364	YPL183C		tagged	visualized	TAP visualized	3450	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1183	YPL184C		tagged	visualized	TAP visualized	7950	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2597	YPL191C		tagged	visualized	TAP visualized	2050	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2437	YPL193W	RSA1	tagged	visualized	TAP visualized	259	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1184	YPL194W	DDC1	tagged	visualized	TAP visualized	238	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1604	YPL198W	RPL7B	tagged	visualized	TAP visualized	7080	NA	cytoplasm,nucleolus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F		
+3545	YPL199C		tagged	visualized	TAP visualized	2130	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1725	YPL204W	HRR25	tagged	visualized	TAP visualized	10300	1690.0	ambiguous,bud neck,cytoplasm,nucleus,bud	T	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	T	T		
+1301	YPL208W		tagged	visualized	TAP visualized	4800	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1738	YPL219W	PCL8	tagged	visualized	TAP visualized	396	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3718	YPL220W	RPL1A	tagged	visualized	TAP visualized	116000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4326	YPL225W		tagged	visualized	TAP visualized	37500	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+204	YPL226W	NEW1	tagged	visualized	TAP visualized	37600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3806	YPL229W		tagged	visualized	TAP visualized	922	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+37	YPL231W	FAS2	tagged	visualized	TAP visualized	17000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3873	YPL239W	YAR1	tagged	visualized	TAP visualized	13100	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+866	YPL240C	HSP82	tagged	visualized	TAP visualized	445000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1230	YPL243W	SRP68	tagged	visualized	TAP visualized	6280	1170.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1971	YPL245W		tagged	visualized	TAP visualized	1130	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1578	YPL247C		tagged	visualized	TAP visualized	799	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+499	YPL249C	GYP5	tagged	visualized	TAP visualized	1940	NA	ambiguous,bud neck,cytoplasm,cell periphery,bud	T	F	F	F	T	F	F	F	F	F	T	F	F	F	F	F	F	T	F	F	F	F	T		
+4033	YPL249C-A	RPL36B	tagged	visualized	TAP visualized	5370	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1478	YPL256C	CLN2	tagged	visualized	TAP visualized	1270	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1764	YPL262W	FUM1	tagged	visualized	TAP visualized	6920	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1045	YPL263C	KEL3	tagged	visualized	TAP visualized	4010	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2866	YPL273W	SAM4	tagged	visualized	TAP visualized	60300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1605	YPR002W	PDH1	tagged	visualized	TAP visualized	2730	NA	cytoplasm,mitochondrion	F	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+911	YPR008W	HAA1	tagged	visualized	TAP visualized	339	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+6189	YPR017C	DSS4	tagged	visualized	TAP visualized	1500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+444	YPR019W	CDC54	tagged	visualized	TAP visualized	8800	1110.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+243	YPR022C		tagged	visualized	TAP visualized	238	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+784	YPR031W	NTO1	tagged	visualized	TAP visualized	172	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1475	YPR033C	HTS1	tagged	visualized	TAP visualized	26800	8150.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2514	YPR035W	GLN1	tagged	visualized	TAP visualized	346000	110000.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2621	YPR040W	TIP41	tagged	visualized	TAP visualized	5710	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2280	YPR041W	TIF5	tagged	visualized	TAP visualized	48300	13300.0	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+303	YPR042C	PUF2	tagged	visualized	TAP visualized	377	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3645	YPR043W	RPL43A	tagged	visualized	TAP visualized	44600	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4060	YPR051W	MAK3	tagged	visualized	TAP visualized	1940	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4205	YPR062W	FCY1	tagged	visualized	TAP visualized	5180	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3070	YPR066W	UBA3	tagged	visualized	TAP visualized	752	NA	cytoplasm,punctate composite	F	F	F	F	F	T	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1407	YPR072W	NOT5	tagged	visualized	TAP visualized	5110	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4188	YPR073C	LTP1	tagged	visualized	TAP visualized	3500	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+958	YPR074C	TKL1	tagged	visualized	TAP visualized	40300	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1946	YPR080W	TEF1	tagged	visualized	TAP visualized	377	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1168	YPR081C	GRS2	tagged	visualized	TAP visualized	2290	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4080	YPR102C	RPL11A	tagged	visualized	TAP visualized	39000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3178	YPR103W	PRE2	tagged	visualized	TAP visualized	8530	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1388	YPR111W	DBF20	tagged	visualized	TAP visualized	3320	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+293	YPR115W		tagged	visualized	TAP visualized	300	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2248	YPR118W		tagged	visualized	TAP visualized	922	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2704	YPR127W		tagged	visualized	TAP visualized	2190	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2668	YPR129W	SCD6	tagged	visualized	TAP visualized	1280	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3452	YPR131C	NAT3	tagged	visualized	TAP visualized	639	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3336	YPR132W	RPS23B	tagged	visualized	TAP visualized	3340	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3035	YPR147C		tagged	visualized	TAP visualized	2010	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+3739	YPR154W	PIN3	tagged	visualized	TAP visualized	2190	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+2089	YPR163C	TIF3	tagged	visualized	TAP visualized	24000	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+4218	YPR168W	NUT2	tagged	visualized	TAP visualized	1470	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+3874	YPR172W		tagged	visualized	TAP visualized	358	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+921	YPR175W	DPB2	tagged	visualized	TAP visualized	3110	251.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+1899	YPR178W	PRP4	tagged	visualized	TAP visualized	1770	271.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+80	YPR184W	GDB1	tagged	visualized	TAP visualized	125	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+800	YPR185W	APG13	tagged	visualized	TAP visualized	149	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+2145	YPR186C	PZF1	tagged	visualized	TAP visualized	1380	302.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+4025	YPR187W	RPO26	tagged	visualized	TAP visualized	6090	NA	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
+110	YPR189W	SKI3	tagged	visualized	TAP visualized	11900	NA	cytoplasm	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F		
+1040	YPR190C	RPC82	tagged	visualized	TAP visualized	2520	278.0	cytoplasm,nucleus	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	T	F		
